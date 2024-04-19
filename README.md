@@ -1,6 +1,5 @@
 # Project-3
 
-
 This project utilized the extract, transform and load process.
 
 Extract:
@@ -14,6 +13,7 @@ Load and Transform:
 Four tables were created in Postgres AWS: prices, category, ratings and bestsellers_books using Python.
 To populate the data into these four tables, the collections data from MongoDB was transformed and loaded using Python.
 
+The psycopg adapter was utilized to create tables and load data in Postgres SQL.
 
 References:
 
