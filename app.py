@@ -60,10 +60,10 @@ def get_data_route():
     table2 = ratings.query.all()
     table3 = category.query.all()
     table4 = bestsellers_books.query.all()
-    data = {'table1': [row.to_dict() for row in table1],
-            'table2': [row.to_dict() for row in table2],
-            'table3': [row.to_dict() for row in table3],
-            'table4': [row.to_dict() for row in table4]}
+    data = {'price': [row.to_dict() for row in table1],
+            'ratings': [row.to_dict() for row in table2],
+            'category': [row.to_dict() for row in table3],
+            'bestsellers_books': [row.to_dict() for row in table4]}
     return jsonify(data)
     
 if __name__ == '__main__':
