@@ -1,6 +1,6 @@
 # Project-3
 
-This project utilized the extract, transform and load process.
+This project utilized the extract, transform and load process to create a non-sql database and an sql database. The non-sql database is housed in MongoDB Atlas and the sql data base is housed in Postgres AWS.
 
 Extract:
 Amazon.ca bestsellers data was pulled from the Rainforest API. See references for the url. The data pulled was in JSON.
