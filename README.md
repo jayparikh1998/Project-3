@@ -48,5 +48,5 @@ https://pandas.pydata.org/pandas-docs/stable/user_guide/cookbook.html#plotting
 Matplotlib
 https://matplotlib.org/stable/users/index.html
 
-Used to help with general inquires:  ChatGPT
+Used to help with general inquires:ChatGPT
 chat.openai.com
