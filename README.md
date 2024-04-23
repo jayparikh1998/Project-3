@@ -22,3 +22,31 @@ https://www.rainforestapi.com/
 
 To create collections with the JSON data from the Rainforest API, we used code produced by Mahesh Peiris. The code Mahesh provided can be found at the following GitHub repo:
 https://github.com/maheshpeiris0/mongodb_test_projects
+
+Used to format the price column: 
+
+DataFrame.apply()
+https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.apply.html
+
+Lambdas
+https://docs.python.org/3/reference/expressions.html#lambda
+
+Instances
+https://docs.python.org/3/library/functions.html#isinstance
+
+Format
+https://docs.python.org/3/library/string.html#format-string-syntax
+
+Python Replace
+https://docs.python.org/3/library/stdtypes.html#str.replace
+
+Used to assist in generating plots:
+
+Pandas
+https://pandas.pydata.org/pandas-docs/stable/user_guide/cookbook.html#plotting
+
+Matplotlib
+https://matplotlib.org/stable/users/index.html
+
+Used to help with general inquires:  ChatGPT
+chat.openai.com
