@@ -1,0 +1,2817 @@
+{
+    "request_info": {
+        "success": true,
+        "credits_used": 12,
+        "credits_remaining": 88,
+        "credits_used_this_request": 2
+    },
+    "request_parameters": {
+        "type": "bestsellers",
+        "amazon_domain": "amazon.ca",
+        "category_id": "bestsellers_videogames",
+        "max_page": "5"
+    },
+    "request_metadata": {
+        "created_at": "2024-04-18T22:38:12.437Z",
+        "processed_at": "2024-04-18T22:38:21.700Z",
+        "total_time_taken": 9.26,
+        "pages": [
+            {
+                "created_at": "2024-04-18T22:38:12.437Z",
+                "processed_at": "2024-04-18T22:38:18.643Z",
+                "total_time_taken": 6.21,
+                "page": 1,
+                "amazon_url": "https://www.amazon.ca/Best-Sellers-Computer-Video-Games/zgbs/videogames/ref=zg_bs_nav_0"
+            },
+            {
+                "created_at": "2024-04-18T22:38:18.644Z",
+                "processed_at": "2024-04-18T22:38:21.700Z",
+                "total_time_taken": 3.06,
+                "page": 2,
+                "amazon_url": "https://www.amazon.ca/Best-Sellers-Computer-Video-Games/zgbs/videogames/ref=zg_bs_nav_0?pg=2"
+            }
+        ]
+    },
+    "bestsellers": [
+        {
+            "rank": 1,
+            "position": 1,
+            "title": "$25 Xbox Gift Card - [Digital Code]",
+            "asin": "B08M8NR5KM",
+            "link": "https://www.amazon.ca/25-Xbox-Gift-Card-Digital/dp/B08M8NR5KM/ref=zg_bs_g_videogames_d_sccl_1/135-6134386-9959244?psc=1",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51ym+zsX-vL._AC_UL300_SR300,200_.jpg",
+            "rating": 4.4,
+            "ratings_total": 2773,
+            "price": {
+                "symbol": "$",
+                "value": 25,
+                "currency": "CAD",
+                "raw": "$25.00"
+            },
+            "current_category": {
+                "name": "Video Games",
+                "link": "https://www.amazon.ca/Best-Sellers-Video-Games/zgbs/videogames",
+                "id": "videogames"
+            },
+            "parent_category": {
+                "name": "Any Department",
+                "link": "https://www.amazon.ca/Best-Sellers/zgbs/ref=zg_bs_unv_videogames_0_1",
+                "id": "zgbs"
+            },
+            "page": null
+        },
+        {
+            "rank": 2,
+            "position": 2,
+            "title": "DualSense Wireless Controller - Midnight Black",
+            "asin": "B0951JZDWT",
+            "link": "https://www.amazon.ca/PlayStation-DualSense-Wireless-Controller-Midnight/dp/B0951JZDWT/ref=zg_bs_g_videogames_d_sccl_2/135-6134386-9959244?psc=1",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/61YKm2DcEVS._AC_UL300_SR300,200_.jpg",
+            "rating": 4.6,
+            "ratings_total": 3115,
+            "price": {
+                "symbol": "$",
+                "value": 89.96,
+                "currency": "CAD",
+                "raw": "$89.96"
+            },
+            "current_category": {
+                "name": "Video Games",
+                "link": "https://www.amazon.ca/Best-Sellers-Video-Games/zgbs/videogames",
+                "id": "videogames"
+            },
+            "parent_category": {
+                "name": "Any Department",
+                "link": "https://www.amazon.ca/Best-Sellers/zgbs/ref=zg_bs_unv_videogames_0_1",
+                "id": "zgbs"
+            },
+            "page": null
+        },
+        {
+            "rank": 3,
+            "position": 3,
+            "title": "Meta Quest 2 \u2014 Advanced All-In-One Virtual Reality Headset 128 GB",
+            "asin": "B09B2YFYYX",
+            "link": "https://www.amazon.ca/Oculus-Quest-Advanced-All-One/dp/B09B2YFYYX/ref=zg_bs_g_videogames_d_sccl_3/135-6134386-9959244?psc=1",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/61GhF+JUXGL._AC_UL300_SR300,200_.jpg",
+            "rating": 4.5,
+            "ratings_total": 27456,
+            "price": {
+                "symbol": "$",
+                "value": 279.96,
+                "currency": "CAD",
+                "raw": "$279.96"
+            },
+            "current_category": {
+                "name": "Video Games",
+                "link": "https://www.amazon.ca/Best-Sellers-Video-Games/zgbs/videogames",
+                "id": "videogames"
+            },
+            "parent_category": {
+                "name": "Any Department",
+                "link": "https://www.amazon.ca/Best-Sellers/zgbs/ref=zg_bs_unv_videogames_0_1",
+                "id": "zgbs"
+            },
+            "page": null
+        },
+        {
+            "rank": 4,
+            "position": 4,
+            "title": "Prince of Persia\u2122: The Lost Crown - Nintendo Switch",
+            "asin": "B0C7SNL397",
+            "link": "https://www.amazon.ca/Prince-PersiaTM-Crown-Nintendo-Switch/dp/B0C7SNL397/ref=zg_bs_g_videogames_d_sccl_4/135-6134386-9959244?psc=1",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/81y6juwy4GL._AC_UL300_SR300,200_.jpg",
+            "rating": 4.6,
+            "ratings_total": 158,
+            "price": {
+                "symbol": "$",
+                "value": 39.99,
+                "currency": "CAD",
+                "raw": "$39.99"
+            },
+            "current_category": {
+                "name": "Video Games",
+                "link": "https://www.amazon.ca/Best-Sellers-Video-Games/zgbs/videogames",
+                "id": "videogames"
+            },
+            "parent_category": {
+                "name": "Any Department",
+                "link": "https://www.amazon.ca/Best-Sellers/zgbs/ref=zg_bs_unv_videogames_0_1",
+                "id": "zgbs"
+            },
+            "page": null
+        },
+        {
+            "rank": 5,
+            "position": 5,
+            "title": "Xbox Game Pass Ultimate: 1 Month Membership [Digital Code]",
+            "asin": "B08M8WSRX9",
+            "link": "https://www.amazon.ca/Xbox-Game-Pass-Ultimate-month/dp/B08M8WSRX9/ref=zg_bs_g_videogames_d_sccl_5/135-6134386-9959244?psc=1",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/71aCFJbgjQL._AC_UL300_SR300,200_.jpg",
+            "rating": 4.6,
+            "ratings_total": 681,
+            "price": {
+                "symbol": "$",
+                "value": 16.99,
+                "currency": "CAD",
+                "raw": "$16.99"
+            },
+            "current_category": {
+                "name": "Video Games",
+                "link": "https://www.amazon.ca/Best-Sellers-Video-Games/zgbs/videogames",
+                "id": "videogames"
+            },
+            "parent_category": {
+                "name": "Any Department",
+                "link": "https://www.amazon.ca/Best-Sellers/zgbs/ref=zg_bs_unv_videogames_0_1",
+                "id": "zgbs"
+            },
+            "page": null
+        },
+        {
+            "rank": 6,
+            "position": 6,
+            "title": "Amazon Basics 3-Button USB Wired Computer Mouse (Black), 1-Pack",
+            "asin": "B005EJH6RW",
+            "link": "https://www.amazon.ca/AmazonBasics-3-Button-Wired-Mouse-Black/dp/B005EJH6RW/ref=zg_bs_g_videogames_d_sccl_6/135-6134386-9959244?psc=1",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/61Mzk2NljxL._AC_UL300_SR300,200_.jpg",
+            "rating": 4.5,
+            "ratings_total": 79059,
+            "price": {
+                "symbol": "$",
+                "value": 11.71,
+                "currency": "CAD",
+                "raw": "$11.71"
+            },
+            "current_category": {
+                "name": "Video Games",
+                "link": "https://www.amazon.ca/Best-Sellers-Video-Games/zgbs/videogames",
+                "id": "videogames"
+            },
+            "parent_category": {
+                "name": "Any Department",
+                "link": "https://www.amazon.ca/Best-Sellers/zgbs/ref=zg_bs_unv_videogames_0_1",
+                "id": "zgbs"
+            },
+            "page": null
+        },
+        {
+            "rank": 7,
+            "position": 7,
+            "title": "Super Mario Bros.\u2122 Wonder \u2013 Nintendo Switch",
+            "asin": "B0C8VP76Z2",
+            "link": "https://www.amazon.ca/Super-Mario-Bros-TM-Wonder-Nintendo/dp/B0C8VP76Z2/ref=zg_bs_g_videogames_d_sccl_7/135-6134386-9959244?psc=1",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/81sApEuu0eL._AC_UL300_SR300,200_.jpg",
+            "rating": 4.8,
+            "ratings_total": 1796,
+            "price": {
+                "symbol": "$",
+                "value": 68.04,
+                "currency": "CAD",
+                "raw": "$68.04"
+            },
+            "current_category": {
+                "name": "Video Games",
+                "link": "https://www.amazon.ca/Best-Sellers-Video-Games/zgbs/videogames",
+                "id": "videogames"
+            },
+            "parent_category": {
+                "name": "Any Department",
+                "link": "https://www.amazon.ca/Best-Sellers/zgbs/ref=zg_bs_unv_videogames_0_1",
+                "id": "zgbs"
+            },
+            "page": null
+        },
+        {
+            "rank": 8,
+            "position": 8,
+            "title": "Prince of Persia\u2122: The Lost Crown - Standard Edition, PlayStation 5",
+            "asin": "B0C7RP9T1G",
+            "link": "https://www.amazon.ca/Prince-PersiaTM-Crown-Standard-PlayStation/dp/B0C7RP9T1G/ref=zg_bs_g_videogames_d_sccl_8/135-6134386-9959244?psc=1",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/811L9bBMzFL._AC_UL300_SR300,200_.jpg",
+            "rating": 4.6,
+            "ratings_total": 158,
+            "price": {
+                "symbol": "$",
+                "value": 39.99,
+                "currency": "CAD",
+                "raw": "$39.99"
+            },
+            "current_category": {
+                "name": "Video Games",
+                "link": "https://www.amazon.ca/Best-Sellers-Video-Games/zgbs/videogames",
+                "id": "videogames"
+            },
+            "parent_category": {
+                "name": "Any Department",
+                "link": "https://www.amazon.ca/Best-Sellers/zgbs/ref=zg_bs_unv_videogames_0_1",
+                "id": "zgbs"
+            },
+            "page": null
+        },
+        {
+            "rank": 9,
+            "position": 9,
+            "title": "Logitech M185 Wireless Mouse, 2.4GHz with USB Mini Receiver, 12-Month Battery Life, 1000 DPI Optical Tracking, Ambidextrous, ",
+            "asin": "B00P43PCI8",
+            "link": "https://www.amazon.ca/Logitech-M185-Wireless-Mouse-910-003888/dp/B00P43PCI8/ref=zg_bs_g_videogames_d_sccl_9/135-6134386-9959244?psc=1",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51n20PTVXnL._AC_UL300_SR300,200_.jpg",
+            "rating": 4.6,
+            "ratings_total": 27293,
+            "price": {
+                "symbol": "$",
+                "value": 19.99,
+                "currency": "CAD",
+                "raw": "$19.99"
+            },
+            "current_category": {
+                "name": "Video Games",
+                "link": "https://www.amazon.ca/Best-Sellers-Video-Games/zgbs/videogames",
+                "id": "videogames"
+            },
+            "parent_category": {
+                "name": "Any Department",
+                "link": "https://www.amazon.ca/Best-Sellers/zgbs/ref=zg_bs_unv_videogames_0_1",
+                "id": "zgbs"
+            },
+            "page": null
+        },
+        {
+            "rank": 10,
+            "position": 10,
+            "title": "Minecraft for Nintendo Switch",
+            "asin": "B07D13QGXM",
+            "link": "https://www.amazon.ca/Nintendo-HACPAEUCA-Minecraft-for-Switch/dp/B07D13QGXM/ref=zg_bs_g_videogames_d_sccl_10/135-6134386-9959244?psc=1",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/81gJUSx-TjL._AC_UL300_SR300,200_.jpg",
+            "rating": 4.7,
+            "ratings_total": 42121,
+            "price": {
+                "symbol": "$",
+                "value": 29.96,
+                "currency": "CAD",
+                "raw": "$29.96"
+            },
+            "current_category": {
+                "name": "Video Games",
+                "link": "https://www.amazon.ca/Best-Sellers-Video-Games/zgbs/videogames",
+                "id": "videogames"
+            },
+            "parent_category": {
+                "name": "Any Department",
+                "link": "https://www.amazon.ca/Best-Sellers/zgbs/ref=zg_bs_unv_videogames_0_1",
+                "id": "zgbs"
+            },
+            "page": null
+        },
+        {
+            "rank": 11,
+            "position": 11,
+            "title": "Controller for Nintendo Switch, Switch Controllers Left and Right Support Vibration/6-Axis Gyroscope and Wake-up Function",
+            "asin": "B0CG359M61",
+            "link": "https://www.amazon.ca/Controller-Nintendo-Controllers-Vibration-Gyroscope/dp/B0CG359M61/ref=zg_bs_g_videogames_d_sccl_11/135-6134386-9959244?psc=1",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/71MA6yHcktL._AC_UL300_SR300,200_.jpg",
+            "rating": 4.5,
+            "ratings_total": 367,
+            "price": {
+                "symbol": "$",
+                "value": 39.99,
+                "currency": "CAD",
+                "raw": "$39.99"
+            },
+            "current_category": {
+                "name": "Video Games",
+                "link": "https://www.amazon.ca/Best-Sellers-Video-Games/zgbs/videogames",
+                "id": "videogames"
+            },
+            "parent_category": {
+                "name": "Any Department",
+                "link": "https://www.amazon.ca/Best-Sellers/zgbs/ref=zg_bs_unv_videogames_0_1",
+                "id": "zgbs"
+            },
+            "page": null
+        },
+        {
+            "rank": 12,
+            "position": 12,
+            "title": "Wireless Mouse,Rechargeable Mouse Wireless 2.4G USB Ergonomic Computer Mouse(Battery Level Visible),Silent Wireless Mice for ",
+            "asin": "B0BZY54XX6",
+            "link": "https://www.amazon.ca/Wireless-Rechargeable-Ergonomic-Computer-Battery/dp/B0BZY54XX6/ref=zg_bs_g_videogames_d_sccl_12/135-6134386-9959244?psc=1",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51pn-LrKPjL._AC_UL300_SR300,200_.jpg",
+            "rating": 4.4,
+            "ratings_total": 2770,
+            "price": {
+                "symbol": "$",
+                "value": 18.99,
+                "currency": "CAD",
+                "raw": "$18.99"
+            },
+            "current_category": {
+                "name": "Video Games",
+                "link": "https://www.amazon.ca/Best-Sellers-Video-Games/zgbs/videogames",
+                "id": "videogames"
+            },
+            "parent_category": {
+                "name": "Any Department",
+                "link": "https://www.amazon.ca/Best-Sellers/zgbs/ref=zg_bs_unv_videogames_0_1",
+                "id": "zgbs"
+            },
+            "page": null
+        },
+        {
+            "rank": 13,
+            "position": 13,
+            "title": "[2024 New Version] CuleedTec Wireless Switch Controller, Switch Pro Controller Compatible with Switch/Lite/OLED, Manette Swit",
+            "asin": "B07P8Q868K",
+            "link": "https://www.amazon.ca/CuleedTec-Wireless-Controller-Nintendo-Switch/dp/B07P8Q868K/ref=zg_bs_g_videogames_d_sccl_13/135-6134386-9959244?psc=1",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/71Sq3ZaerNL._AC_UL300_SR300,200_.jpg",
+            "rating": 4.5,
+            "ratings_total": 9089,
+            "price": {
+                "symbol": "$",
+                "value": 25.49,
+                "currency": "CAD",
+                "raw": "$25.49"
+            },
+            "current_category": {
+                "name": "Video Games",
+                "link": "https://www.amazon.ca/Best-Sellers-Video-Games/zgbs/videogames",
+                "id": "videogames"
+            },
+            "parent_category": {
+                "name": "Any Department",
+                "link": "https://www.amazon.ca/Best-Sellers/zgbs/ref=zg_bs_unv_videogames_0_1",
+                "id": "zgbs"
+            },
+            "page": null
+        },
+        {
+            "rank": 14,
+            "position": 14,
+            "title": "Meta Quest 3 128GB \u2014 Breakthrough Mixed Reality \u2014 Powerful Performance \u2014 Asgard\u2019s Wrath 2 Bundle",
+            "asin": "B0C8VKH1ZH",
+            "link": "https://www.amazon.ca/Meta-Quest-128GB-Breakthrough-Performance/dp/B0C8VKH1ZH/ref=zg_bs_g_videogames_d_sccl_14/135-6134386-9959244?psc=1",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/81whTB488bL._AC_UL300_SR300,200_.jpg",
+            "rating": 4.4,
+            "ratings_total": 7711,
+            "price": {
+                "symbol": "$",
+                "value": 649.96,
+                "currency": "CAD",
+                "raw": "$649.96"
+            },
+            "current_category": {
+                "name": "Video Games",
+                "link": "https://www.amazon.ca/Best-Sellers-Video-Games/zgbs/videogames",
+                "id": "videogames"
+            },
+            "parent_category": {
+                "name": "Any Department",
+                "link": "https://www.amazon.ca/Best-Sellers/zgbs/ref=zg_bs_unv_videogames_0_1",
+                "id": "zgbs"
+            },
+            "page": null
+        },
+        {
+            "rank": 15,
+            "position": 15,
+            "title": "Logitech G502 HERO High Performance Wired Gaming Mouse, HERO 25K Sensor, 25,600 DPI, RGB, Adjustable Weights, 11 Programmable",
+            "asin": "B07GBZ4Q68",
+            "link": "https://www.amazon.ca/Logitech-Performance-Gaming-Mouse-910-005469/dp/B07GBZ4Q68/ref=zg_bs_g_videogames_d_sccl_15/135-6134386-9959244?psc=1",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/61mpMH5TzkL._AC_UL300_SR300,200_.jpg",
+            "rating": 4.5,
+            "ratings_total": 49443,
+            "price": {
+                "symbol": "$",
+                "value": 69.98,
+                "currency": "CAD",
+                "raw": "$69.98"
+            },
+            "current_category": {
+                "name": "Video Games",
+                "link": "https://www.amazon.ca/Best-Sellers-Video-Games/zgbs/videogames",
+                "id": "videogames"
+            },
+            "parent_category": {
+                "name": "Any Department",
+                "link": "https://www.amazon.ca/Best-Sellers/zgbs/ref=zg_bs_unv_videogames_0_1",
+                "id": "zgbs"
+            },
+            "page": null
+        },
+        {
+            "rank": 16,
+            "position": 16,
+            "title": "Xbox Core Wireless Gaming Controller \u2013 Electric Volt \u2013 Xbox Series X|S, Xbox One, Windows PC, Android, and iOS",
+            "asin": "B08ZNQN1FP",
+            "link": "https://www.amazon.ca/Xbox-Wireless-Controller-Electric-Windows/dp/B08ZNQN1FP/ref=zg_bs_g_videogames_d_sccl_16/135-6134386-9959244?psc=1",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/71wG2SsDRXL._AC_UL300_SR300,200_.jpg",
+            "rating": 4.6,
+            "ratings_total": 78551,
+            "price": {
+                "symbol": "$",
+                "value": 67.98,
+                "currency": "CAD",
+                "raw": "$67.98"
+            },
+            "current_category": {
+                "name": "Video Games",
+                "link": "https://www.amazon.ca/Best-Sellers-Video-Games/zgbs/videogames",
+                "id": "videogames"
+            },
+            "parent_category": {
+                "name": "Any Department",
+                "link": "https://www.amazon.ca/Best-Sellers/zgbs/ref=zg_bs_unv_videogames_0_1",
+                "id": "zgbs"
+            },
+            "page": null
+        },
+        {
+            "rank": 17,
+            "position": 17,
+            "title": "[3 Pack] Screen Protector Tempered Glass for Nintendo Switch, iVoler Transparent HD Clear Anti-Scratch Screen Protector Compa",
+            "asin": "B0795GHTBC",
+            "link": "https://www.amazon.ca/Nintendo-Protector-Transparent-Anti-Scratch-Replacement/dp/B0795GHTBC/ref=zg_bs_g_videogames_d_sccl_17/135-6134386-9959244?psc=1",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/71ccbRRebHL._AC_UL300_SR300,200_.jpg",
+            "rating": 4.6,
+            "ratings_total": 39551,
+            "price": {
+                "symbol": "$",
+                "value": 8.49,
+                "currency": "CAD",
+                "raw": "$8.49"
+            },
+            "current_category": {
+                "name": "Video Games",
+                "link": "https://www.amazon.ca/Best-Sellers-Video-Games/zgbs/videogames",
+                "id": "videogames"
+            },
+            "parent_category": {
+                "name": "Any Department",
+                "link": "https://www.amazon.ca/Best-Sellers/zgbs/ref=zg_bs_unv_videogames_0_1",
+                "id": "zgbs"
+            },
+            "page": null
+        },
+        {
+            "rank": 18,
+            "position": 18,
+            "title": "Unicorn Overlord - Nintendo Switch - Standard Edition Edition",
+            "asin": "B0CJ3ZGM7Y",
+            "link": "https://www.amazon.ca/Unicorn-Overlord-Nintendo-Switch-Standard/dp/B0CJ3ZGM7Y/ref=zg_bs_g_videogames_d_sccl_18/135-6134386-9959244?psc=1",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/818PodmmRaL._AC_UL300_SR300,200_.jpg",
+            "rating": 4.8,
+            "ratings_total": 143,
+            "price": {
+                "symbol": "$",
+                "value": 54.99,
+                "currency": "CAD",
+                "raw": "$54.99"
+            },
+            "current_category": {
+                "name": "Video Games",
+                "link": "https://www.amazon.ca/Best-Sellers-Video-Games/zgbs/videogames",
+                "id": "videogames"
+            },
+            "parent_category": {
+                "name": "Any Department",
+                "link": "https://www.amazon.ca/Best-Sellers/zgbs/ref=zg_bs_unv_videogames_0_1",
+                "id": "zgbs"
+            },
+            "page": null
+        },
+        {
+            "rank": 19,
+            "position": 19,
+            "title": "Ozeino Gaming Headset for PS5 PS4 Xbox One Switch PC, Over Ear Gaming Headphones with Noise Cancelling Microphone Volume Cont",
+            "asin": "B09H7BZN98",
+            "link": "https://www.amazon.ca/Headset-Headphones-Cancelling-Microphone-Control/dp/B09H7BZN98/ref=zg_bs_g_videogames_d_sccl_19/135-6134386-9959244?psc=1",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/61tl-Fi6-uL._AC_UL300_SR300,200_.jpg",
+            "rating": 4.3,
+            "ratings_total": 3830,
+            "price": {
+                "symbol": "$",
+                "value": 35.99,
+                "currency": "CAD",
+                "raw": "$35.99"
+            },
+            "current_category": {
+                "name": "Video Games",
+                "link": "https://www.amazon.ca/Best-Sellers-Video-Games/zgbs/videogames",
+                "id": "videogames"
+            },
+            "parent_category": {
+                "name": "Any Department",
+                "link": "https://www.amazon.ca/Best-Sellers/zgbs/ref=zg_bs_unv_videogames_0_1",
+                "id": "zgbs"
+            },
+            "page": null
+        },
+        {
+            "rank": 20,
+            "position": 20,
+            "title": "Carrying Case for Nintendo Switch and NEW Switch OLED Model(2021), iVoler Protective Portable HardShell Pouch Carrying Travel",
+            "asin": "B07C91PXNM",
+            "link": "https://www.amazon.ca/Protector-iVoler-Protective-Accessories-Cartridge/dp/B07C91PXNM/ref=zg_bs_g_videogames_d_sccl_20/135-6134386-9959244?psc=1",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/81qi9fil3bL._AC_UL300_SR300,200_.jpg",
+            "rating": 4.7,
+            "ratings_total": 6877,
+            "price": {
+                "symbol": "$",
+                "value": 16.5,
+                "currency": "CAD",
+                "raw": "$16.50"
+            },
+            "current_category": {
+                "name": "Video Games",
+                "link": "https://www.amazon.ca/Best-Sellers-Video-Games/zgbs/videogames",
+                "id": "videogames"
+            },
+            "parent_category": {
+                "name": "Any Department",
+                "link": "https://www.amazon.ca/Best-Sellers/zgbs/ref=zg_bs_unv_videogames_0_1",
+                "id": "zgbs"
+            },
+            "page": null
+        },
+        {
+            "rank": 21,
+            "position": 21,
+            "title": "Xbox Core Wireless Gaming Controller \u2013 Pulse Red \u2013 Xbox Series X|S, Xbox One, Windows PC, Android, and iOS",
+            "asin": "B0859XT328",
+            "link": "https://www.amazon.ca/Microsoft-Xbox-Wireless-Controller-Pulse/dp/B0859XT328/ref=zg_bs_g_videogames_d_sccl_21/135-6134386-9959244?psc=1",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/61P9Y9Oo+lL._AC_UL300_SR300,200_.jpg",
+            "rating": 4.6,
+            "ratings_total": 78551,
+            "price": {
+                "symbol": "$",
+                "value": 68.98,
+                "currency": "CAD",
+                "raw": "$68.98"
+            },
+            "current_category": {
+                "name": "Video Games",
+                "link": "https://www.amazon.ca/Best-Sellers-Video-Games/zgbs/videogames",
+                "id": "videogames"
+            },
+            "parent_category": {
+                "name": "Any Department",
+                "link": "https://www.amazon.ca/Best-Sellers/zgbs/ref=zg_bs_unv_videogames_0_1",
+                "id": "zgbs"
+            },
+            "page": null
+        },
+        {
+            "rank": 22,
+            "position": 22,
+            "title": "Mario Kart\u2122 8 Deluxe \u2013 Nintendo Switch",
+            "asin": "B071XNBL33",
+            "link": "https://www.amazon.ca/Mario-Kart-8-Deluxe-Switch/dp/B071XNBL33/ref=zg_bs_g_videogames_d_sccl_22/135-6134386-9959244?psc=1",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/91KQmjDxj-L._AC_UL300_SR300,200_.jpg",
+            "rating": 4.8,
+            "ratings_total": 12310,
+            "price": {
+                "symbol": "$",
+                "value": 75.95,
+                "currency": "CAD",
+                "raw": "$75.95"
+            },
+            "current_category": {
+                "name": "Video Games",
+                "link": "https://www.amazon.ca/Best-Sellers-Video-Games/zgbs/videogames",
+                "id": "videogames"
+            },
+            "parent_category": {
+                "name": "Any Department",
+                "link": "https://www.amazon.ca/Best-Sellers/zgbs/ref=zg_bs_unv_videogames_0_1",
+                "id": "zgbs"
+            },
+            "page": null
+        },
+        {
+            "rank": 23,
+            "position": 23,
+            "title": "PlayStation Portal Remote Player - PlayStation 5",
+            "asin": "B0CJT5DJ16",
+            "link": "https://www.amazon.ca/PlayStation-Portal-Remote-Player/dp/B0CJT5DJ16/ref=zg_bs_g_videogames_d_sccl_23/135-6134386-9959244?psc=1",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/61tWTfjqlOL._AC_UL300_SR300,200_.jpg",
+            "rating": 4.3,
+            "ratings_total": 553,
+            "price": {
+                "symbol": "$",
+                "value": 269.96,
+                "currency": "CAD",
+                "raw": "$269.96"
+            },
+            "current_category": {
+                "name": "Video Games",
+                "link": "https://www.amazon.ca/Best-Sellers-Video-Games/zgbs/videogames",
+                "id": "videogames"
+            },
+            "parent_category": {
+                "name": "Any Department",
+                "link": "https://www.amazon.ca/Best-Sellers/zgbs/ref=zg_bs_unv_videogames_0_1",
+                "id": "zgbs"
+            },
+            "page": null
+        },
+        {
+            "rank": 24,
+            "position": 24,
+            "title": "JOREST 33Pcs Precision Screwdriver Set, Tool Kit with Security Torx T5 T6 T8 T9, Triwing Y00, Star P5, etc, Repair for Ring D",
+            "asin": "B09FFCGLHK",
+            "link": "https://www.amazon.ca/Precision-Screwdriver-Security-Phillips-Doorbell/dp/B09FFCGLHK/ref=zg_bs_g_videogames_d_sccl_24/135-6134386-9959244?psc=1",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/81sP1RpQH0L._AC_UL300_SR300,200_.jpg",
+            "rating": 4.5,
+            "ratings_total": 8039,
+            "price": {
+                "symbol": "$",
+                "value": 12.99,
+                "currency": "CAD",
+                "raw": "$12.99"
+            },
+            "current_category": {
+                "name": "Video Games",
+                "link": "https://www.amazon.ca/Best-Sellers-Video-Games/zgbs/videogames",
+                "id": "videogames"
+            },
+            "parent_category": {
+                "name": "Any Department",
+                "link": "https://www.amazon.ca/Best-Sellers/zgbs/ref=zg_bs_unv_videogames_0_1",
+                "id": "zgbs"
+            },
+            "page": null
+        },
+        {
+            "rank": 25,
+            "position": 25,
+            "title": "Nintendo Switch Pro Controller",
+            "asin": "B01NAWKYZ0",
+            "link": "https://www.amazon.ca/Nintendo-HACAFSSKA-Switch-Pro-Controller/dp/B01NAWKYZ0/ref=zg_bs_g_videogames_d_sccl_25/135-6134386-9959244?psc=1",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/61drpi3cYUL._AC_UL300_SR300,200_.jpg",
+            "rating": 4.8,
+            "ratings_total": 70212,
+            "price": {
+                "symbol": "$",
+                "value": 89.96,
+                "currency": "CAD",
+                "raw": "$89.96"
+            },
+            "current_category": {
+                "name": "Video Games",
+                "link": "https://www.amazon.ca/Best-Sellers-Video-Games/zgbs/videogames",
+                "id": "videogames"
+            },
+            "parent_category": {
+                "name": "Any Department",
+                "link": "https://www.amazon.ca/Best-Sellers/zgbs/ref=zg_bs_unv_videogames_0_1",
+                "id": "zgbs"
+            },
+            "page": null
+        },
+        {
+            "rank": 26,
+            "position": 26,
+            "title": "Princess Peach\u2122: Showtime! (CAN Version)",
+            "asin": "B0CJ3GFZ53",
+            "link": "https://www.amazon.ca/Princess-PeachTM-Showtime-Version-Standard/dp/B0CJ3GFZ53/ref=zg_bs_g_videogames_d_sccl_26/135-6134386-9959244?psc=1",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/811kY3mtTbL._AC_UL300_SR300,200_.jpg",
+            "rating": 4.4,
+            "ratings_total": 34,
+            "price": {
+                "symbol": "$",
+                "value": 77.99,
+                "currency": "CAD",
+                "raw": "$77.99"
+            },
+            "current_category": {
+                "name": "Video Games",
+                "link": "https://www.amazon.ca/Best-Sellers-Video-Games/zgbs/videogames",
+                "id": "videogames"
+            },
+            "parent_category": {
+                "name": "Any Department",
+                "link": "https://www.amazon.ca/Best-Sellers/zgbs/ref=zg_bs_unv_videogames_0_1",
+                "id": "zgbs"
+            },
+            "page": null
+        },
+        {
+            "rank": 27,
+            "position": 27,
+            "title": "Xbox Series X Console",
+            "asin": "B08H75RTZ8",
+            "link": "https://www.amazon.ca/Microsoft-RRT-00001-Xbox-Series-X/dp/B08H75RTZ8/ref=zg_bs_g_videogames_d_sccl_27/135-6134386-9959244?psc=1",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51ojzJk77qL._AC_UL300_SR300,200_.jpg",
+            "rating": 4.8,
+            "ratings_total": 26072,
+            "price": {
+                "symbol": "$",
+                "value": 464.8,
+                "currency": "CAD",
+                "raw": "$464.80"
+            },
+            "current_category": {
+                "name": "Video Games",
+                "link": "https://www.amazon.ca/Best-Sellers-Video-Games/zgbs/videogames",
+                "id": "videogames"
+            },
+            "parent_category": {
+                "name": "Any Department",
+                "link": "https://www.amazon.ca/Best-Sellers/zgbs/ref=zg_bs_unv_videogames_0_1",
+                "id": "zgbs"
+            },
+            "page": null
+        },
+        {
+            "rank": 28,
+            "position": 28,
+            "title": "Energizer 123 Lithium Batteries, 3V CR123A Lithium Photo Batteries (6 Battery Count)",
+            "asin": "B0036QL1JY",
+            "link": "https://www.amazon.ca/Energizer-Lithium-Batteries-Count-CR123A/dp/B0036QL1JY/ref=zg_bs_g_videogames_d_sccl_28/135-6134386-9959244?psc=1",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/719eH54anxL._AC_UL300_SR300,200_.jpg",
+            "rating": 4.6,
+            "ratings_total": 24776,
+            "price": {
+                "symbol": "$",
+                "value": 33.99,
+                "currency": "CAD",
+                "raw": "$33.99"
+            },
+            "current_category": {
+                "name": "Video Games",
+                "link": "https://www.amazon.ca/Best-Sellers-Video-Games/zgbs/videogames",
+                "id": "videogames"
+            },
+            "parent_category": {
+                "name": "Any Department",
+                "link": "https://www.amazon.ca/Best-Sellers/zgbs/ref=zg_bs_unv_videogames_0_1",
+                "id": "zgbs"
+            },
+            "page": null
+        },
+        {
+            "rank": 29,
+            "position": 29,
+            "title": "[UL Listed] 6ft Ac Power Cord for Ps5 Ps4 Ps3 Playstation 4 3 Slim Ac Power Cable",
+            "asin": "B07JHPRZTD",
+            "link": "https://www.amazon.ca/Listed-Power-Cord-Playstation-Cable/dp/B07JHPRZTD/ref=zg_bs_g_videogames_d_sccl_29/135-6134386-9959244?psc=1",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/61DPB4t4ztL._AC_UL300_SR300,200_.jpg",
+            "rating": 4.7,
+            "ratings_total": 2704,
+            "price": {
+                "symbol": "$",
+                "value": 7.98,
+                "currency": "CAD",
+                "raw": "$7.98"
+            },
+            "current_category": {
+                "name": "Video Games",
+                "link": "https://www.amazon.ca/Best-Sellers-Video-Games/zgbs/videogames",
+                "id": "videogames"
+            },
+            "parent_category": {
+                "name": "Any Department",
+                "link": "https://www.amazon.ca/Best-Sellers/zgbs/ref=zg_bs_unv_videogames_0_1",
+                "id": "zgbs"
+            },
+            "page": null
+        },
+        {
+            "rank": 30,
+            "position": 30,
+            "title": "AceGamer Wireless Controller for PS4, Purple Galaxy Custom Design with Non-Slip Grips of Both Sides, Turbo Function and 3.5mm",
+            "asin": "B0BZ46D72R",
+            "link": "https://www.amazon.ca/AceGamer-Wireless-Controller-Non-Slip-Function/dp/B0BZ46D72R/ref=zg_bs_g_videogames_d_sccl_30/135-6134386-9959244?psc=1",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/71vGA8dRecL._AC_UL300_SR300,200_.jpg",
+            "rating": 4.1,
+            "ratings_total": 595,
+            "price": {
+                "symbol": "$",
+                "value": 29.99,
+                "currency": "CAD",
+                "raw": "$29.99"
+            },
+            "current_category": {
+                "name": "Video Games",
+                "link": "https://www.amazon.ca/Best-Sellers-Video-Games/zgbs/videogames",
+                "id": "videogames"
+            },
+            "parent_category": {
+                "name": "Any Department",
+                "link": "https://www.amazon.ca/Best-Sellers/zgbs/ref=zg_bs_unv_videogames_0_1",
+                "id": "zgbs"
+            },
+            "page": null
+        },
+        {
+            "rank": 31,
+            "position": 31,
+            "title": "Xbox Core Wireless Gaming Controller \u2013 Astral Purple \u2013 Xbox Series X|S, Xbox One, Windows PC, Android, and iOS",
+            "asin": "B0CCSTWB9R",
+            "link": "https://www.amazon.ca/Xbox-Core-Wireless-Gaming-Controller/dp/B0CCSTWB9R/ref=_d_sccl_31/130-9179437-5025634?psc=1",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/61B4klaWctL._AC_UL300_SR300,200_.jpg",
+            "rating": 4.6,
+            "ratings_total": 78551,
+            "price": {
+                "symbol": "$",
+                "value": 70.93,
+                "currency": "CAD",
+                "raw": "$70.93"
+            },
+            "current_category": {
+                "name": "Video Games",
+                "link": "https://www.amazon.ca/Best-Sellers-Video-Games/zgbs/videogames",
+                "id": "videogames"
+            },
+            "parent_category": {
+                "name": "Any Department",
+                "link": "https://www.amazon.ca/Best-Sellers/zgbs/ref=zg_bs_unv_videogames_0_1",
+                "id": "zgbs"
+            },
+            "page": null
+        },
+        {
+            "rank": 32,
+            "position": 32,
+            "title": "Wireless Controller for PS4, with Audio Jack, Vibration, Six-Axis Motion Control, Touchpad, Controller for PS4/Slim/Pro/PC",
+            "asin": "B0CQYM9WKB",
+            "link": "https://www.amazon.ca/Wireless-Controller-Vibration-Six-Axis-Touchpad/dp/B0CQYM9WKB/ref=_d_sccl_32/130-9179437-5025634?psc=1",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/61p7iAHQuCL._AC_UL300_SR300,200_.jpg",
+            "rating": 4.4,
+            "ratings_total": 3415,
+            "price": {
+                "symbol": "$",
+                "value": 26.99,
+                "currency": "CAD",
+                "raw": "$26.99"
+            },
+            "current_category": {
+                "name": "Video Games",
+                "link": "https://www.amazon.ca/Best-Sellers-Video-Games/zgbs/videogames",
+                "id": "videogames"
+            },
+            "parent_category": {
+                "name": "Any Department",
+                "link": "https://www.amazon.ca/Best-Sellers/zgbs/ref=zg_bs_unv_videogames_0_1",
+                "id": "zgbs"
+            },
+            "page": null
+        },
+        {
+            "rank": 33,
+            "position": 33,
+            "title": "Persona 3 Reload: Standard Edition - PlayStation 5",
+            "asin": "B0CGFCC193",
+            "link": "https://www.amazon.ca/SEGA-Persona-Reload-Standard-PlayStation/dp/B0CGFCC193/ref=_d_sccl_33/130-9179437-5025634?psc=1",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/81hmWAdXP8L._AC_UL300_SR300,200_.jpg",
+            "rating": 4.7,
+            "ratings_total": 300,
+            "price": {
+                "symbol": "$",
+                "value": 54.99,
+                "currency": "CAD",
+                "raw": "$54.99"
+            },
+            "current_category": {
+                "name": "Video Games",
+                "link": "https://www.amazon.ca/Best-Sellers-Video-Games/zgbs/videogames",
+                "id": "videogames"
+            },
+            "parent_category": {
+                "name": "Any Department",
+                "link": "https://www.amazon.ca/Best-Sellers/zgbs/ref=zg_bs_unv_videogames_0_1",
+                "id": "zgbs"
+            },
+            "page": null
+        },
+        {
+            "rank": 34,
+            "position": 34,
+            "title": "HyperX Cloud Alpha - Gaming Headset, Dual Chamber Drivers, Legendary Comfort, Aluminum Frame, Detachable Microphone, Works on",
+            "asin": "B074NBSF9N",
+            "link": "https://www.amazon.ca/HyperX-Cloud-Alpha-Detachable-Microphone/dp/B074NBSF9N/ref=_d_sccl_34/130-9179437-5025634?psc=1",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/61i+QbshAFL._AC_UL300_SR300,200_.jpg",
+            "rating": 4.4,
+            "ratings_total": 25945,
+            "price": {
+                "symbol": "$",
+                "value": 99.99,
+                "currency": "CAD",
+                "raw": "$99.99"
+            },
+            "current_category": {
+                "name": "Video Games",
+                "link": "https://www.amazon.ca/Best-Sellers-Video-Games/zgbs/videogames",
+                "id": "videogames"
+            },
+            "parent_category": {
+                "name": "Any Department",
+                "link": "https://www.amazon.ca/Best-Sellers/zgbs/ref=zg_bs_unv_videogames_0_1",
+                "id": "zgbs"
+            },
+            "page": null
+        },
+        {
+            "rank": 35,
+            "position": 35,
+            "title": "Amazon Basics Ergonomic Wireless PC Mouse - DPI adjustable - Black",
+            "asin": "B0787D6SGQ",
+            "link": "https://www.amazon.ca/AmazonBasics-G6B-BK-Ergonomic-Wireless-Mouse/dp/B0787D6SGQ/ref=_d_sccl_35/130-9179437-5025634?psc=1",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/61zntkiLcuL._AC_UL300_SR300,200_.jpg",
+            "rating": 4.3,
+            "ratings_total": 21399,
+            "price": {
+                "symbol": "$",
+                "value": 18.99,
+                "currency": "CAD",
+                "raw": "$18.99"
+            },
+            "current_category": {
+                "name": "Video Games",
+                "link": "https://www.amazon.ca/Best-Sellers-Video-Games/zgbs/videogames",
+                "id": "videogames"
+            },
+            "parent_category": {
+                "name": "Any Department",
+                "link": "https://www.amazon.ca/Best-Sellers/zgbs/ref=zg_bs_unv_videogames_0_1",
+                "id": "zgbs"
+            },
+            "page": null
+        },
+        {
+            "rank": 36,
+            "position": 36,
+            "title": "New Super Mario Bros. U Deluxe Switch",
+            "asin": "B07HKVRQZ9",
+            "link": "https://www.amazon.ca/Super-Mario-Bros-Deluxe-Switch/dp/B07HKVRQZ9/ref=_d_sccl_36/130-9179437-5025634?psc=1",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/8177Ba7g0JL._AC_UL300_SR300,200_.jpg",
+            "rating": 4.8,
+            "ratings_total": 4047,
+            "price": {
+                "symbol": "$",
+                "value": 68,
+                "currency": "CAD",
+                "raw": "$68.00"
+            },
+            "current_category": {
+                "name": "Video Games",
+                "link": "https://www.amazon.ca/Best-Sellers-Video-Games/zgbs/videogames",
+                "id": "videogames"
+            },
+            "parent_category": {
+                "name": "Any Department",
+                "link": "https://www.amazon.ca/Best-Sellers/zgbs/ref=zg_bs_unv_videogames_0_1",
+                "id": "zgbs"
+            },
+            "page": null
+        },
+        {
+            "rank": 37,
+            "position": 37,
+            "title": "[4 Pack] iVoler Tempered Glass Screen Protector Designed for Nintendo Switch OLED Model 2021 with [Alignment Frame] Transpare",
+            "asin": "B09B4MJ9H3",
+            "link": "https://www.amazon.ca/Tempered-Protector-Designed-Alignment-Transparent/dp/B09B4MJ9H3/ref=_d_sccl_37/130-9179437-5025634?psc=1",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/71Q6y6rDsLL._AC_UL300_SR300,200_.jpg",
+            "rating": 4.7,
+            "ratings_total": 24564,
+            "price": {
+                "symbol": "$",
+                "value": 12.98,
+                "currency": "CAD",
+                "raw": "$12.98"
+            },
+            "current_category": {
+                "name": "Video Games",
+                "link": "https://www.amazon.ca/Best-Sellers-Video-Games/zgbs/videogames",
+                "id": "videogames"
+            },
+            "parent_category": {
+                "name": "Any Department",
+                "link": "https://www.amazon.ca/Best-Sellers/zgbs/ref=zg_bs_unv_videogames_0_1",
+                "id": "zgbs"
+            },
+            "page": null
+        },
+        {
+            "rank": 38,
+            "position": 38,
+            "title": "The Legend of Zelda\u2122: Tears of the Kingdom \u2013 Nintendo Switch",
+            "asin": "B0BV8XX3FF",
+            "link": "https://www.amazon.ca/Legend-ZeldaTM-Kingdom-Nintendo-Switch/dp/B0BV8XX3FF/ref=_d_sccl_38/130-9179437-5025634?psc=1",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/912NlV3YxCL._AC_UL300_SR300,200_.jpg",
+            "rating": 4.9,
+            "ratings_total": 3066,
+            "price": {
+                "symbol": "$",
+                "value": 80,
+                "currency": "CAD",
+                "raw": "$80.00"
+            },
+            "current_category": {
+                "name": "Video Games",
+                "link": "https://www.amazon.ca/Best-Sellers-Video-Games/zgbs/videogames",
+                "id": "videogames"
+            },
+            "parent_category": {
+                "name": "Any Department",
+                "link": "https://www.amazon.ca/Best-Sellers/zgbs/ref=zg_bs_unv_videogames_0_1",
+                "id": "zgbs"
+            },
+            "page": null
+        },
+        {
+            "rank": 39,
+            "position": 39,
+            "title": "Paper Mario\u2122: The Thousand-Year Door (CAN Version)",
+            "asin": "B0CXQPR3F5",
+            "link": "https://www.amazon.ca/Paper-MarioTM-Thousand-Year-Door-Version/dp/B0CXQPR3F5/ref=_d_sccl_39/130-9179437-5025634?psc=1",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/91b68b9hPhL._AC_UL300_SR300,200_.jpg",
+            "price": {
+                "symbol": "$",
+                "value": 79.99,
+                "currency": "CAD",
+                "raw": "$79.99"
+            },
+            "current_category": {
+                "name": "Video Games",
+                "link": "https://www.amazon.ca/Best-Sellers-Video-Games/zgbs/videogames",
+                "id": "videogames"
+            },
+            "parent_category": {
+                "name": "Any Department",
+                "link": "https://www.amazon.ca/Best-Sellers/zgbs/ref=zg_bs_unv_videogames_0_1",
+                "id": "zgbs"
+            },
+            "page": null
+        },
+        {
+            "rank": 40,
+            "position": 40,
+            "title": "OIVO XSX Controller Charger Station with 2 Packs Rechargeable Battery Packs for Xbox Series X/S/One/Elite/Core Controller, Xb",
+            "asin": "B08LBK5J49",
+            "link": "https://www.amazon.ca/Controller-Compatible-OIVO-Charging-Rechargeable/dp/B08LBK5J49/ref=_d_sccl_40/130-9179437-5025634?psc=1",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/71TXJZP5c-L._AC_UL300_SR300,200_.jpg",
+            "rating": 4.5,
+            "ratings_total": 16598,
+            "price": {
+                "symbol": "$",
+                "value": 26.99,
+                "currency": "CAD",
+                "raw": "$26.99"
+            },
+            "current_category": {
+                "name": "Video Games",
+                "link": "https://www.amazon.ca/Best-Sellers-Video-Games/zgbs/videogames",
+                "id": "videogames"
+            },
+            "parent_category": {
+                "name": "Any Department",
+                "link": "https://www.amazon.ca/Best-Sellers/zgbs/ref=zg_bs_unv_videogames_0_1",
+                "id": "zgbs"
+            },
+            "page": null
+        },
+        {
+            "rank": 41,
+            "position": 41,
+            "title": "Bayonetta Origins: Cereza and the Lost Demon\u2122",
+            "asin": "B0BQMWBBPB",
+            "link": "https://www.amazon.ca/Bayonetta-Origins-Cereza-DemonTM-Standard/dp/B0BQMWBBPB/ref=_d_sccl_41/130-9179437-5025634?psc=1",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/81DjoVAtbVL._AC_UL300_SR300,200_.jpg",
+            "rating": 4.9,
+            "ratings_total": 35,
+            "price": {
+                "symbol": "$",
+                "value": 39.99,
+                "currency": "CAD",
+                "raw": "$39.99"
+            },
+            "current_category": {
+                "name": "Video Games",
+                "link": "https://www.amazon.ca/Best-Sellers-Video-Games/zgbs/videogames",
+                "id": "videogames"
+            },
+            "parent_category": {
+                "name": "Any Department",
+                "link": "https://www.amazon.ca/Best-Sellers/zgbs/ref=zg_bs_unv_videogames_0_1",
+                "id": "zgbs"
+            },
+            "page": null
+        },
+        {
+            "rank": 42,
+            "position": 42,
+            "title": "[2024 New Version] Switch Controller, Wireless Pro Controller Switch Lite, Switch Remote Controller Gamepad Joystick, Turbo a",
+            "asin": "B09J4FKYK9",
+            "link": "https://www.amazon.ca/Controller-Nintendo-Wireless-Joystick-Vibration/dp/B09J4FKYK9/ref=_d_sccl_42/130-9179437-5025634?psc=1",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/61C6iRIi7VL._AC_UL300_SR300,200_.jpg",
+            "rating": 4.5,
+            "ratings_total": 3676,
+            "price": {
+                "symbol": "$",
+                "value": 22.09,
+                "currency": "CAD",
+                "raw": "$22.09"
+            },
+            "current_category": {
+                "name": "Video Games",
+                "link": "https://www.amazon.ca/Best-Sellers-Video-Games/zgbs/videogames",
+                "id": "videogames"
+            },
+            "parent_category": {
+                "name": "Any Department",
+                "link": "https://www.amazon.ca/Best-Sellers/zgbs/ref=zg_bs_unv_videogames_0_1",
+                "id": "zgbs"
+            },
+            "page": null
+        },
+        {
+            "rank": 43,
+            "position": 43,
+            "title": "DualSense Wireless Controller - Cosmic Red",
+            "asin": "B0951LJBPD",
+            "link": "https://www.amazon.ca/PlayStation-DualSense-Wireless-Controller-Cosmic/dp/B0951LJBPD/ref=_d_sccl_43/130-9179437-5025634?psc=1",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/71nu5VMhOHS._AC_UL300_SR300,200_.jpg",
+            "rating": 4.7,
+            "ratings_total": 1637,
+            "price": {
+                "symbol": "$",
+                "value": 94,
+                "currency": "CAD",
+                "raw": "$94.00"
+            },
+            "current_category": {
+                "name": "Video Games",
+                "link": "https://www.amazon.ca/Best-Sellers-Video-Games/zgbs/videogames",
+                "id": "videogames"
+            },
+            "parent_category": {
+                "name": "Any Department",
+                "link": "https://www.amazon.ca/Best-Sellers/zgbs/ref=zg_bs_unv_videogames_0_1",
+                "id": "zgbs"
+            },
+            "page": null
+        },
+        {
+            "rank": 44,
+            "position": 44,
+            "title": "SteelSeries Rival 3 Gaming Mouse - 8, 500 CPI Truemove Core Optical Sensor - 6 Programmable Buttons - Split Trigger Buttons -",
+            "asin": "B08176SM7C",
+            "link": "https://www.amazon.ca/SteelSeries-Rival-Gaming-Mouse-Programmable/dp/B08176SM7C/ref=_d_sccl_44/130-9179437-5025634?psc=1",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/71EOtRi-c6L._AC_UL300_SR300,200_.jpg",
+            "rating": 4.5,
+            "ratings_total": 5261,
+            "price": {
+                "symbol": "$",
+                "value": 29.98,
+                "currency": "CAD",
+                "raw": "$29.98"
+            },
+            "current_category": {
+                "name": "Video Games",
+                "link": "https://www.amazon.ca/Best-Sellers-Video-Games/zgbs/videogames",
+                "id": "videogames"
+            },
+            "parent_category": {
+                "name": "Any Department",
+                "link": "https://www.amazon.ca/Best-Sellers/zgbs/ref=zg_bs_unv_videogames_0_1",
+                "id": "zgbs"
+            },
+            "page": null
+        },
+        {
+            "rank": 45,
+            "position": 45,
+            "title": "Gaming Keyboard, 104 Keys All-Metal Panel, Dacoity Rainbow LED Backlit Quiet Computer Keyboard, Wrist Rest, Multimedia Keys, ",
+            "asin": "B09TZWLFLY",
+            "link": "https://www.amazon.ca/All-Metal-Dacoity-Multimedia-Anti-ghosting-Waterproof/dp/B09TZWLFLY/ref=_d_sccl_45/130-9179437-5025634?psc=1",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/71ud68+jS-L._AC_UL300_SR300,200_.jpg",
+            "rating": 4.4,
+            "ratings_total": 2826,
+            "price": {
+                "symbol": "$",
+                "value": 30.99,
+                "currency": "CAD",
+                "raw": "$30.99"
+            },
+            "current_category": {
+                "name": "Video Games",
+                "link": "https://www.amazon.ca/Best-Sellers-Video-Games/zgbs/videogames",
+                "id": "videogames"
+            },
+            "parent_category": {
+                "name": "Any Department",
+                "link": "https://www.amazon.ca/Best-Sellers/zgbs/ref=zg_bs_unv_videogames_0_1",
+                "id": "zgbs"
+            },
+            "page": null
+        },
+        {
+            "rank": 46,
+            "position": 46,
+            "title": "BINNUNE Gaming Headset with Microphone for Xbox Series X|S Xbox One PS4 PS5 PC, Gamer Headphones with Mic Casque for Xbox 1 P",
+            "asin": "B0BZL94RVY",
+            "link": "https://www.amazon.ca/BINNUNE-Headset-Microphone-Headphones-Playstation/dp/B0BZL94RVY/ref=_d_sccl_46/130-9179437-5025634?psc=1",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/71Rpq9W05PL._AC_UL300_SR300,200_.jpg",
+            "rating": 4.3,
+            "ratings_total": 864,
+            "price": {
+                "symbol": "$",
+                "value": 35.99,
+                "currency": "CAD",
+                "raw": "$35.99"
+            },
+            "current_category": {
+                "name": "Video Games",
+                "link": "https://www.amazon.ca/Best-Sellers-Video-Games/zgbs/videogames",
+                "id": "videogames"
+            },
+            "parent_category": {
+                "name": "Any Department",
+                "link": "https://www.amazon.ca/Best-Sellers/zgbs/ref=zg_bs_unv_videogames_0_1",
+                "id": "zgbs"
+            },
+            "page": null
+        },
+        {
+            "rank": 47,
+            "position": 47,
+            "title": "PlayStation 5 Digital Edition Console (slim)",
+            "asin": "B0CL7NKBBL",
+            "link": "https://www.amazon.ca/PlayStation-5-Digital-Console-slim/dp/B0CL7NKBBL/ref=_d_sccl_47/130-9179437-5025634?psc=1",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51fM0CKG+HL._AC_UL300_SR300,200_.jpg",
+            "rating": 4.7,
+            "ratings_total": 1187,
+            "price": {
+                "symbol": "$",
+                "value": 579,
+                "currency": "CAD",
+                "raw": "$579.00"
+            },
+            "current_category": {
+                "name": "Video Games",
+                "link": "https://www.amazon.ca/Best-Sellers-Video-Games/zgbs/videogames",
+                "id": "videogames"
+            },
+            "parent_category": {
+                "name": "Any Department",
+                "link": "https://www.amazon.ca/Best-Sellers/zgbs/ref=zg_bs_unv_videogames_0_1",
+                "id": "zgbs"
+            },
+            "page": null
+        },
+        {
+            "rank": 48,
+            "position": 48,
+            "title": "GameSir G7 SE Wired Controller for Xbox Series X|S, Xbox One & Windows 10/11, Plug and Play Gaming Gamepad with Hall Effect J",
+            "asin": "B0C7GW9F88",
+            "link": "https://www.amazon.ca/GameSir-G7-SE-Controller-Joysticks/dp/B0C7GW9F88/ref=_d_sccl_48/130-9179437-5025634?psc=1",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51KL3KdKLkL._AC_UL300_SR300,200_.jpg",
+            "rating": 4.4,
+            "ratings_total": 4279,
+            "price": {
+                "symbol": "$",
+                "value": 63.99,
+                "currency": "CAD",
+                "raw": "$63.99"
+            },
+            "current_category": {
+                "name": "Video Games",
+                "link": "https://www.amazon.ca/Best-Sellers-Video-Games/zgbs/videogames",
+                "id": "videogames"
+            },
+            "parent_category": {
+                "name": "Any Department",
+                "link": "https://www.amazon.ca/Best-Sellers/zgbs/ref=zg_bs_unv_videogames_0_1",
+                "id": "zgbs"
+            },
+            "page": null
+        },
+        {
+            "rank": 49,
+            "position": 49,
+            "title": "DualSense Edge Wireless Controller",
+            "asin": "B0BKBJXJZZ",
+            "link": "https://www.amazon.ca/Playstation-DualSense-Edge-Wireless-Controller/dp/B0BKBJXJZZ/ref=_d_sccl_49/130-9179437-5025634?psc=1",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/61CEnSr7v-L._AC_UL300_SR300,200_.jpg",
+            "rating": 4.6,
+            "ratings_total": 647,
+            "price": {
+                "symbol": "$",
+                "value": 269,
+                "currency": "CAD",
+                "raw": "$269.00"
+            },
+            "current_category": {
+                "name": "Video Games",
+                "link": "https://www.amazon.ca/Best-Sellers-Video-Games/zgbs/videogames",
+                "id": "videogames"
+            },
+            "parent_category": {
+                "name": "Any Department",
+                "link": "https://www.amazon.ca/Best-Sellers/zgbs/ref=zg_bs_unv_videogames_0_1",
+                "id": "zgbs"
+            },
+            "page": null
+        },
+        {
+            "rank": 50,
+            "position": 50,
+            "title": "Head Strap with Battery for Oculus Quest 2, 7500mAh Extend 4-5H Playtime, Adjustable Comfort Elite Head Strap Replacement, Li",
+            "asin": "B0BM9L3XJL",
+            "link": "https://www.amazon.ca/Playtime-Adjustable-Replacement-Lightweight-Enhanced/dp/B0BM9L3XJL/ref=_d_sccl_50/130-9179437-5025634?psc=1",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/61+qZDDT6YL._AC_UL300_SR300,200_.jpg",
+            "rating": 4.5,
+            "ratings_total": 369,
+            "price": {
+                "symbol": "$",
+                "value": 44.01,
+                "currency": "CAD",
+                "raw": "$44.01"
+            },
+            "current_category": {
+                "name": "Video Games",
+                "link": "https://www.amazon.ca/Best-Sellers-Video-Games/zgbs/videogames",
+                "id": "videogames"
+            },
+            "parent_category": {
+                "name": "Any Department",
+                "link": "https://www.amazon.ca/Best-Sellers/zgbs/ref=zg_bs_unv_videogames_0_1",
+                "id": "zgbs"
+            },
+            "page": null
+        },
+        {
+            "rank": 51,
+            "position": 1,
+            "title": "Logitech G203 2nd Gen Wired Gaming Mouse, 8,000 DPI, Rainbow Optical Effect LIGHTSYNC RGB, 6 Programmable Buttons, On-Board M",
+            "asin": "B07YN82X3B",
+            "link": "https://www.amazon.ca/Logitech-G203-Hero-Lightsync-Black/dp/B07YN82X3B/ref=zg_bs_g_videogames_d_sccl_1/138-0662167-6638958?psc=1",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/61UxfXTUyvL._AC_UL300_SR300,200_.jpg",
+            "rating": 4.6,
+            "ratings_total": 16056,
+            "price": {
+                "symbol": "$",
+                "value": 39.99,
+                "currency": "CAD",
+                "raw": "$39.99"
+            },
+            "current_category": {
+                "name": "Video Games",
+                "link": "https://www.amazon.ca/Best-Sellers-Video-Games/zgbs/videogames",
+                "id": "videogames"
+            },
+            "parent_category": {
+                "name": "Any Department",
+                "link": "https://www.amazon.ca/Best-Sellers/zgbs/ref=zg_bs_unv_videogames_0_1",
+                "id": "zgbs"
+            },
+            "page": 2
+        },
+        {
+            "rank": 52,
+            "position": 2,
+            "title": "Vassink Ergonomic Mouse, Rechargeable Wireless Mouse, 2.4GHz Rechargeable Wireless Vertical Optical Mice with USB Receiver, 6",
+            "asin": "B09MVS1CXZ",
+            "link": "https://www.amazon.ca/Vassink-Ergonomic-Rechargeable-Wireless-Vertical/dp/B09MVS1CXZ/ref=zg_bs_g_videogames_d_sccl_2/138-0662167-6638958?psc=1",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51dfDFVs86L._AC_UL300_SR300,200_.jpg",
+            "rating": 4.1,
+            "ratings_total": 991,
+            "price": {
+                "symbol": "$",
+                "value": 31.99,
+                "currency": "CAD",
+                "raw": "$31.99"
+            },
+            "current_category": {
+                "name": "Video Games",
+                "link": "https://www.amazon.ca/Best-Sellers-Video-Games/zgbs/videogames",
+                "id": "videogames"
+            },
+            "parent_category": {
+                "name": "Any Department",
+                "link": "https://www.amazon.ca/Best-Sellers/zgbs/ref=zg_bs_unv_videogames_0_1",
+                "id": "zgbs"
+            },
+            "page": 2
+        },
+        {
+            "rank": 53,
+            "position": 3,
+            "title": "PS4 Controller Charging Cable, [2Pack 10FT] Micro USB 2.0 Nylon Braided High Speed Data Sync Cord for Playstation 4, PS4 Pro/",
+            "asin": "B0B27ZS9BV",
+            "link": "https://www.amazon.ca/Controller-Charging-Playstation-Controllers-BlackGrey/dp/B0B27ZS9BV/ref=zg_bs_g_videogames_d_sccl_3/138-0662167-6638958?psc=1",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/717vA-kk+FL._AC_UL300_SR300,200_.jpg",
+            "rating": 4.5,
+            "ratings_total": 894,
+            "price": {
+                "symbol": "$",
+                "value": 13.99,
+                "currency": "CAD",
+                "raw": "$13.99"
+            },
+            "current_category": {
+                "name": "Video Games",
+                "link": "https://www.amazon.ca/Best-Sellers-Video-Games/zgbs/videogames",
+                "id": "videogames"
+            },
+            "parent_category": {
+                "name": "Any Department",
+                "link": "https://www.amazon.ca/Best-Sellers/zgbs/ref=zg_bs_unv_videogames_0_1",
+                "id": "zgbs"
+            },
+            "page": 2
+        },
+        {
+            "rank": 54,
+            "position": 4,
+            "title": "PlayStation 4 USB Charging Cable",
+            "asin": "B00HUXPZPK",
+            "link": "https://www.amazon.ca/PlayStation-4-USB-Charging-Cable/dp/B00HUXPZPK/ref=zg_bs_g_videogames_d_sccl_4/138-0662167-6638958?psc=1",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/61GP5i2HCdL._AC_UL300_SR300,200_.jpg",
+            "rating": 4.6,
+            "ratings_total": 40527,
+            "price": {
+                "symbol": "$",
+                "value": 13.73,
+                "currency": "CAD",
+                "raw": "$13.73"
+            },
+            "current_category": {
+                "name": "Video Games",
+                "link": "https://www.amazon.ca/Best-Sellers-Video-Games/zgbs/videogames",
+                "id": "videogames"
+            },
+            "parent_category": {
+                "name": "Any Department",
+                "link": "https://www.amazon.ca/Best-Sellers/zgbs/ref=zg_bs_unv_videogames_0_1",
+                "id": "zgbs"
+            },
+            "page": 2
+        },
+        {
+            "rank": 55,
+            "position": 5,
+            "title": "Mario Vs. Donkey Kong\u2122 (CAN Version)",
+            "asin": "B0CJ3J383H",
+            "link": "https://www.amazon.ca/Mario-Vs-Donkey-KongTM-Version/dp/B0CJ3J383H/ref=zg_bs_g_videogames_d_sccl_5/138-0662167-6638958?psc=1",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/61ql3GP-IsL._AC_UL300_SR300,200_.jpg",
+            "rating": 4.6,
+            "ratings_total": 119,
+            "price": {
+                "symbol": "$",
+                "value": 64.96,
+                "currency": "CAD",
+                "raw": "$64.96"
+            },
+            "current_category": {
+                "name": "Video Games",
+                "link": "https://www.amazon.ca/Best-Sellers-Video-Games/zgbs/videogames",
+                "id": "videogames"
+            },
+            "parent_category": {
+                "name": "Any Department",
+                "link": "https://www.amazon.ca/Best-Sellers/zgbs/ref=zg_bs_unv_videogames_0_1",
+                "id": "zgbs"
+            },
+            "page": 2
+        },
+        {
+            "rank": 56,
+            "position": 6,
+            "title": "Stellar Blade - PlayStation 5",
+            "asin": "B0CTVB45QY",
+            "link": "https://www.amazon.ca/PlayStation-Stellar-Blade-5/dp/B0CTVB45QY/ref=zg_bs_g_videogames_d_sccl_6/138-0662167-6638958?psc=1",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/81svmpUQXML._AC_UL300_SR300,200_.jpg",
+            "price": {
+                "symbol": "$",
+                "value": 89.96,
+                "currency": "CAD",
+                "raw": "$89.96"
+            },
+            "current_category": {
+                "name": "Video Games",
+                "link": "https://www.amazon.ca/Best-Sellers-Video-Games/zgbs/videogames",
+                "id": "videogames"
+            },
+            "parent_category": {
+                "name": "Any Department",
+                "link": "https://www.amazon.ca/Best-Sellers/zgbs/ref=zg_bs_unv_videogames_0_1",
+                "id": "zgbs"
+            },
+            "page": 2
+        },
+        {
+            "rank": 57,
+            "position": 7,
+            "title": "PS5 Controller Charger, OIVO PS5 Charging Station for Dualsense Controller, PS5 Controller Charger Station with Fast Charging",
+            "asin": "B08LZGPPBH",
+            "link": "https://www.amazon.ca/OIVO-Controller-Playstation-Charging-Indicators/dp/B08LZGPPBH/ref=zg_bs_g_videogames_d_sccl_7/138-0662167-6638958?psc=1",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/61c4Ud7Os4L._AC_UL300_SR300,200_.jpg",
+            "rating": 4.6,
+            "ratings_total": 17520,
+            "price": {
+                "symbol": "$",
+                "value": 29.99,
+                "currency": "CAD",
+                "raw": "$29.99"
+            },
+            "current_category": {
+                "name": "Video Games",
+                "link": "https://www.amazon.ca/Best-Sellers-Video-Games/zgbs/videogames",
+                "id": "videogames"
+            },
+            "parent_category": {
+                "name": "Any Department",
+                "link": "https://www.amazon.ca/Best-Sellers/zgbs/ref=zg_bs_unv_videogames_0_1",
+                "id": "zgbs"
+            },
+            "page": 2
+        },
+        {
+            "rank": 58,
+            "position": 8,
+            "title": "Logitech G Driving Force Shifter \u2013 Compatible with G29, G920 & G923 Racing Wheels for-PlayStation-5-Playstation-4-Xbox-Series",
+            "asin": "B00Z0UWV3O",
+            "link": "https://www.amazon.ca/Logitech-Driving-Force-Shifter-941-000119/dp/B00Z0UWV3O/ref=zg_bs_g_videogames_d_sccl_8/138-0662167-6638958?psc=1",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51D3-2lQu7L._AC_UL300_SR300,200_.jpg",
+            "rating": 4.5,
+            "ratings_total": 30798,
+            "price": {
+                "symbol": "$",
+                "value": 69.99,
+                "currency": "CAD",
+                "raw": "$69.99"
+            },
+            "current_category": {
+                "name": "Video Games",
+                "link": "https://www.amazon.ca/Best-Sellers-Video-Games/zgbs/videogames",
+                "id": "videogames"
+            },
+            "parent_category": {
+                "name": "Any Department",
+                "link": "https://www.amazon.ca/Best-Sellers/zgbs/ref=zg_bs_unv_videogames_0_1",
+                "id": "zgbs"
+            },
+            "page": 2
+        },
+        {
+            "rank": 59,
+            "position": 9,
+            "title": "Wired Mouse, USB Wired Mouse with 6 Buttons Silent Click Ergonomic 1.5M USB Cable Computer Mouse Gaming Mice Silent Click 320",
+            "asin": "B0C7TSNKZW",
+            "link": "https://www.amazon.ca/Buttons-Ergonomic-Computer-3200DPI-Optical/dp/B0C7TSNKZW/ref=zg_bs_g_videogames_d_sccl_9/138-0662167-6638958?psc=1",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/61Tq7pesLpL._AC_UL300_SR300,200_.jpg",
+            "rating": 4.4,
+            "ratings_total": 2770,
+            "price": {
+                "symbol": "$",
+                "value": 15.99,
+                "currency": "CAD",
+                "raw": "$15.99"
+            },
+            "current_category": {
+                "name": "Video Games",
+                "link": "https://www.amazon.ca/Best-Sellers-Video-Games/zgbs/videogames",
+                "id": "videogames"
+            },
+            "parent_category": {
+                "name": "Any Department",
+                "link": "https://www.amazon.ca/Best-Sellers/zgbs/ref=zg_bs_unv_videogames_0_1",
+                "id": "zgbs"
+            },
+            "page": 2
+        },
+        {
+            "rank": 60,
+            "position": 10,
+            "title": "NUBWO G06 Dual Wireless Gaming Headset with Microphone for PS5, PS4, PC, Mobile, Switch: 2.4GHz Wireless + Bluetooth - 100 Hr",
+            "asin": "B08TBF4S42",
+            "link": "https://www.amazon.ca/NUBWO-Wireless-Cancelling-Headphones-Ultra-Low/dp/B08TBF4S42/ref=zg_bs_g_videogames_d_sccl_10/138-0662167-6638958?psc=1",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/61hRlwVl79L._AC_UL300_SR300,200_.jpg",
+            "rating": 4.3,
+            "ratings_total": 12475,
+            "price": {
+                "symbol": "$",
+                "value": 59.99,
+                "currency": "CAD",
+                "raw": "$59.99"
+            },
+            "current_category": {
+                "name": "Video Games",
+                "link": "https://www.amazon.ca/Best-Sellers-Video-Games/zgbs/videogames",
+                "id": "videogames"
+            },
+            "parent_category": {
+                "name": "Any Department",
+                "link": "https://www.amazon.ca/Best-Sellers/zgbs/ref=zg_bs_unv_videogames_0_1",
+                "id": "zgbs"
+            },
+            "page": 2
+        },
+        {
+            "rank": 61,
+            "position": 11,
+            "title": "AceGamer Wireless Controller for PS4, Custom Design V2 Gamepad Joystick for PS4 with Non-Slip Grip of Both Sides and 3.5mm Au",
+            "asin": "B0BWH7FBZC",
+            "link": "https://www.amazon.ca/AceGamer-Wireless-Controller-Joystick-Lightning/dp/B0BWH7FBZC/ref=zg_bs_g_videogames_d_sccl_11/138-0662167-6638958?psc=1",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/81xx4glrAgL._AC_UL300_SR300,200_.jpg",
+            "rating": 4.3,
+            "ratings_total": 685,
+            "price": {
+                "symbol": "$",
+                "value": 32.99,
+                "currency": "CAD",
+                "raw": "$32.99"
+            },
+            "current_category": {
+                "name": "Video Games",
+                "link": "https://www.amazon.ca/Best-Sellers-Video-Games/zgbs/videogames",
+                "id": "videogames"
+            },
+            "parent_category": {
+                "name": "Any Department",
+                "link": "https://www.amazon.ca/Best-Sellers/zgbs/ref=zg_bs_unv_videogames_0_1",
+                "id": "zgbs"
+            },
+            "page": 2
+        },
+        {
+            "rank": 62,
+            "position": 12,
+            "title": "KontrolFreek FPS Freek Galaxy Purple for PlayStation 4 (PS4) and PlayStation 5 (PS5) | Performance Thumbsticks | 1 High-Rise,",
+            "asin": "B016P09VFS",
+            "link": "https://www.amazon.ca/KontrolFreek-PlayStation-Performance-Thumbsticks-High-Rise/dp/B016P09VFS/ref=zg_bs_g_videogames_d_sccl_12/138-0662167-6638958?psc=1",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/713TFIPR7EL._AC_UL300_SR300,200_.jpg",
+            "rating": 4.5,
+            "ratings_total": 26285,
+            "price": {
+                "symbol": "$",
+                "value": 22.99,
+                "currency": "CAD",
+                "raw": "$22.99"
+            },
+            "current_category": {
+                "name": "Video Games",
+                "link": "https://www.amazon.ca/Best-Sellers-Video-Games/zgbs/videogames",
+                "id": "videogames"
+            },
+            "parent_category": {
+                "name": "Any Department",
+                "link": "https://www.amazon.ca/Best-Sellers/zgbs/ref=zg_bs_unv_videogames_0_1",
+                "id": "zgbs"
+            },
+            "page": 2
+        },
+        {
+            "rank": 63,
+            "position": 13,
+            "title": "PlayStation 5 Disc Edition Console (slim)",
+            "asin": "B0CL7RQRY9",
+            "link": "https://www.amazon.ca/PlayStation-5-Disc-Console-slim/dp/B0CL7RQRY9/ref=zg_bs_g_videogames_d_sccl_13/138-0662167-6638958?psc=1",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51CXJ8Rl7UL._AC_UL300_SR300,200_.jpg",
+            "rating": 4.7,
+            "ratings_total": 1187,
+            "price": {
+                "symbol": "$",
+                "value": 649,
+                "currency": "CAD",
+                "raw": "$649.00"
+            },
+            "current_category": {
+                "name": "Video Games",
+                "link": "https://www.amazon.ca/Best-Sellers-Video-Games/zgbs/videogames",
+                "id": "videogames"
+            },
+            "parent_category": {
+                "name": "Any Department",
+                "link": "https://www.amazon.ca/Best-Sellers/zgbs/ref=zg_bs_unv_videogames_0_1",
+                "id": "zgbs"
+            },
+            "page": 2
+        },
+        {
+            "rank": 64,
+            "position": 14,
+            "title": "Nintendo Switch\u2122 - OLED Model with White Joy-Con",
+            "asin": "B098RKWHHZ",
+            "link": "https://www.amazon.ca/Nintendo-SwitchTM-OLED-Model-White/dp/B098RKWHHZ/ref=zg_bs_g_videogames_d_sccl_14/138-0662167-6638958?psc=1",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/61nqNujSF2L._AC_UL300_SR300,200_.jpg",
+            "rating": 4.8,
+            "ratings_total": 27813,
+            "price": {
+                "symbol": "$",
+                "value": 444.88,
+                "currency": "CAD",
+                "raw": "$444.88"
+            },
+            "current_category": {
+                "name": "Video Games",
+                "link": "https://www.amazon.ca/Best-Sellers-Video-Games/zgbs/videogames",
+                "id": "videogames"
+            },
+            "parent_category": {
+                "name": "Any Department",
+                "link": "https://www.amazon.ca/Best-Sellers/zgbs/ref=zg_bs_unv_videogames_0_1",
+                "id": "zgbs"
+            },
+            "page": 2
+        },
+        {
+            "rank": 65,
+            "position": 15,
+            "title": "Gtheos Wireless Gaming Headphones 2.4GHz for PS5, PS4, PC, Mac, Nintendo Switch, Bluetooth 5.2 Gaming Headset with Detachable",
+            "asin": "B0BPY2Y4ZC",
+            "link": "https://www.amazon.ca/Gtheos-Headphones-Bluetooth-Detachable-Microphone/dp/B0BPY2Y4ZC/ref=zg_bs_g_videogames_d_sccl_15/138-0662167-6638958?psc=1",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/61rvZw7yQwL._AC_UL300_SR300,200_.jpg",
+            "rating": 4.3,
+            "ratings_total": 3777,
+            "price": {
+                "symbol": "$",
+                "value": 59.99,
+                "currency": "CAD",
+                "raw": "$59.99"
+            },
+            "current_category": {
+                "name": "Video Games",
+                "link": "https://www.amazon.ca/Best-Sellers-Video-Games/zgbs/videogames",
+                "id": "videogames"
+            },
+            "parent_category": {
+                "name": "Any Department",
+                "link": "https://www.amazon.ca/Best-Sellers/zgbs/ref=zg_bs_unv_videogames_0_1",
+                "id": "zgbs"
+            },
+            "page": 2
+        },
+        {
+            "rank": 66,
+            "position": 16,
+            "title": "Power Supply for Xbox One [Latest Version] Replacement Power Brick Power Box for Xbox one Adapter AC Power Cord Cable 100-240",
+            "asin": "B07GD8TN2M",
+            "link": "https://www.amazon.ca/Version-Replacement-Adapter-100-240V-Voltage/dp/B07GD8TN2M/ref=zg_bs_g_videogames_d_sccl_16/138-0662167-6638958?psc=1",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/61IUgmx8inL._AC_UL300_SR300,200_.jpg",
+            "rating": 4.3,
+            "ratings_total": 24117,
+            "price": {
+                "symbol": "$",
+                "value": 29.99,
+                "currency": "CAD",
+                "raw": "$29.99"
+            },
+            "current_category": {
+                "name": "Video Games",
+                "link": "https://www.amazon.ca/Best-Sellers-Video-Games/zgbs/videogames",
+                "id": "videogames"
+            },
+            "parent_category": {
+                "name": "Any Department",
+                "link": "https://www.amazon.ca/Best-Sellers/zgbs/ref=zg_bs_unv_videogames_0_1",
+                "id": "zgbs"
+            },
+            "page": 2
+        },
+        {
+            "rank": 67,
+            "position": 17,
+            "title": "BENFEI HDMI to DVI, Bi Directional DVI-D 24+1 Male to HDMI Male High Speed Adapter Cable Support 1080P Full HD Compatible for",
+            "asin": "B07D6RL3VN",
+            "link": "https://www.amazon.ca/Directional-Adapter-Compatible-Raspberry-Graphics/dp/B07D6RL3VN/ref=zg_bs_g_videogames_d_sccl_17/138-0662167-6638958?psc=1",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/71U0hJ3oeeL._AC_UL300_SR300,200_.jpg",
+            "rating": 4.6,
+            "ratings_total": 13064,
+            "price": {
+                "symbol": "$",
+                "value": 11.59,
+                "currency": "CAD",
+                "raw": "$11.59"
+            },
+            "current_category": {
+                "name": "Video Games",
+                "link": "https://www.amazon.ca/Best-Sellers-Video-Games/zgbs/videogames",
+                "id": "videogames"
+            },
+            "parent_category": {
+                "name": "Any Department",
+                "link": "https://www.amazon.ca/Best-Sellers/zgbs/ref=zg_bs_unv_videogames_0_1",
+                "id": "zgbs"
+            },
+            "page": 2
+        },
+        {
+            "rank": 68,
+            "position": 18,
+            "title": "Charger for Nintendo Switch and Switch Lite and Switch OLED with 5FT Charger Cable for Switch, Support Switch TV Dock Mode AC",
+            "asin": "B07MVG7H8V",
+            "link": "https://www.amazon.ca/Charger-Nintendo-Adapter-Compatible-Support/dp/B07MVG7H8V/ref=zg_bs_g_videogames_d_sccl_18/138-0662167-6638958?psc=1",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51KR6EW1QQS._AC_UL300_SR300,200_.jpg",
+            "rating": 4.7,
+            "ratings_total": 11909,
+            "price": {
+                "symbol": "$",
+                "value": 17.99,
+                "currency": "CAD",
+                "raw": "$17.99"
+            },
+            "current_category": {
+                "name": "Video Games",
+                "link": "https://www.amazon.ca/Best-Sellers-Video-Games/zgbs/videogames",
+                "id": "videogames"
+            },
+            "parent_category": {
+                "name": "Any Department",
+                "link": "https://www.amazon.ca/Best-Sellers/zgbs/ref=zg_bs_unv_videogames_0_1",
+                "id": "zgbs"
+            },
+            "page": 2
+        },
+        {
+            "rank": 69,
+            "position": 19,
+            "title": "DualSense Wireless Controller - Gray Camouflage",
+            "asin": "B0BDT72Z19",
+            "link": "https://www.amazon.ca/DualSense-Wireless-Controller-Gray-Camouflage/dp/B0BDT72Z19/ref=zg_bs_g_videogames_d_sccl_19/138-0662167-6638958?psc=1",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/61+OWyoox2L._AC_UL300_SR300,200_.jpg",
+            "rating": 4.7,
+            "ratings_total": 844,
+            "price": {
+                "symbol": "$",
+                "value": 94,
+                "currency": "CAD",
+                "raw": "$94.00"
+            },
+            "current_category": {
+                "name": "Video Games",
+                "link": "https://www.amazon.ca/Best-Sellers-Video-Games/zgbs/videogames",
+                "id": "videogames"
+            },
+            "parent_category": {
+                "name": "Any Department",
+                "link": "https://www.amazon.ca/Best-Sellers/zgbs/ref=zg_bs_unv_videogames_0_1",
+                "id": "zgbs"
+            },
+            "page": 2
+        },
+        {
+            "rank": 70,
+            "position": 20,
+            "title": "Xbox Core Wireless Gaming Controller \u2013 Deep Pink \u2013 Xbox Series X|S, Xbox One, Windows PC, Android, and iOS",
+            "asin": "B09VV5LJS1",
+            "link": "https://www.amazon.ca/Xbox-Wireless-Controller-Special-Windows/dp/B09VV5LJS1/ref=zg_bs_g_videogames_d_sccl_20/138-0662167-6638958?psc=1",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/617v34sT0gL._AC_UL300_SR300,200_.jpg",
+            "rating": 4.6,
+            "ratings_total": 78551,
+            "price": {
+                "symbol": "$",
+                "value": 69,
+                "currency": "CAD",
+                "raw": "$69.00"
+            },
+            "current_category": {
+                "name": "Video Games",
+                "link": "https://www.amazon.ca/Best-Sellers-Video-Games/zgbs/videogames",
+                "id": "videogames"
+            },
+            "parent_category": {
+                "name": "Any Department",
+                "link": "https://www.amazon.ca/Best-Sellers/zgbs/ref=zg_bs_unv_videogames_0_1",
+                "id": "zgbs"
+            },
+            "page": 2
+        },
+        {
+            "rank": 71,
+            "position": 21,
+            "title": "Turtle Beach Stealth 600 Gen 2 USB Wireless Amplified Gaming Headset - Licensed for Xbox Series X, Xbox Series S, & Xbox One ",
+            "asin": "B09SM79BY4",
+            "link": "https://www.amazon.ca/Turtle-Beach-Stealth-Wireless-Amplified/dp/B09SM79BY4/ref=zg_bs_g_videogames_d_sccl_21/138-0662167-6638958?psc=1",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/71PT0lWCQxL._AC_UL300_SR300,200_.jpg",
+            "rating": 4.5,
+            "ratings_total": 728,
+            "price": {
+                "symbol": "$",
+                "value": 89.96,
+                "currency": "CAD",
+                "raw": "$89.96"
+            },
+            "current_category": {
+                "name": "Video Games",
+                "link": "https://www.amazon.ca/Best-Sellers-Video-Games/zgbs/videogames",
+                "id": "videogames"
+            },
+            "parent_category": {
+                "name": "Any Department",
+                "link": "https://www.amazon.ca/Best-Sellers/zgbs/ref=zg_bs_unv_videogames_0_1",
+                "id": "zgbs"
+            },
+            "page": 2
+        },
+        {
+            "rank": 72,
+            "position": 22,
+            "title": "HyperX Cloud II - Gaming Headset, 7.1 Surround Sound, Memory Foam Ear Pads, Durable Aluminum Frame, Detachable Microphone, Wo",
+            "asin": "B00SAYCXWG",
+            "link": "https://www.amazon.ca/HyperX-Gaming-Headset-Nintendo-Switch/dp/B00SAYCXWG/ref=zg_bs_g_videogames_d_sccl_22/138-0662167-6638958?psc=1",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/61E0RGekWGL._AC_UL300_SR300,200_.jpg",
+            "rating": 4.4,
+            "ratings_total": 95136,
+            "price": {
+                "symbol": "$",
+                "value": 110.58,
+                "currency": "CAD",
+                "raw": "$110.58"
+            },
+            "current_category": {
+                "name": "Video Games",
+                "link": "https://www.amazon.ca/Best-Sellers-Video-Games/zgbs/videogames",
+                "id": "videogames"
+            },
+            "parent_category": {
+                "name": "Any Department",
+                "link": "https://www.amazon.ca/Best-Sellers/zgbs/ref=zg_bs_unv_videogames_0_1",
+                "id": "zgbs"
+            },
+            "page": 2
+        },
+        {
+            "rank": 73,
+            "position": 23,
+            "title": "Logitech Pebble Keys 2 K380s, Multi-Device Bluetooth Wireless Keyboard with Customizable Shortcuts, Slim and Portable, Easy-S",
+            "asin": "B0BT4DP7SC",
+            "link": "https://www.amazon.ca/Logitech-Multi-Device-Bluetooth-Customizable-Easy-Switch/dp/B0BT4DP7SC/ref=zg_bs_g_videogames_d_sccl_23/138-0662167-6638958?psc=1",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/61whrA5i6YL._AC_UL300_SR300,200_.jpg",
+            "rating": 4.6,
+            "ratings_total": 22830,
+            "price": {
+                "symbol": "$",
+                "value": 49.99,
+                "currency": "CAD",
+                "raw": "$49.99"
+            },
+            "current_category": {
+                "name": "Video Games",
+                "link": "https://www.amazon.ca/Best-Sellers-Video-Games/zgbs/videogames",
+                "id": "videogames"
+            },
+            "parent_category": {
+                "name": "Any Department",
+                "link": "https://www.amazon.ca/Best-Sellers/zgbs/ref=zg_bs_unv_videogames_0_1",
+                "id": "zgbs"
+            },
+            "page": 2
+        },
+        {
+            "rank": 74,
+            "position": 24,
+            "title": "Unicorn Overlord - PlayStation 5 - Standard Edition Edition",
+            "asin": "B0CJ4KF5J7",
+            "link": "https://www.amazon.ca/Unicorn-Overlord-PlayStation-5-Standard/dp/B0CJ4KF5J7/ref=zg_bs_g_videogames_d_sccl_24/138-0662167-6638958?psc=1",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/81ra5Ts25yL._AC_UL300_SR300,200_.jpg",
+            "rating": 4.7,
+            "ratings_total": 54,
+            "price": {
+                "symbol": "$",
+                "value": 54.99,
+                "currency": "CAD",
+                "raw": "$54.99"
+            },
+            "current_category": {
+                "name": "Video Games",
+                "link": "https://www.amazon.ca/Best-Sellers-Video-Games/zgbs/videogames",
+                "id": "videogames"
+            },
+            "parent_category": {
+                "name": "Any Department",
+                "link": "https://www.amazon.ca/Best-Sellers/zgbs/ref=zg_bs_unv_videogames_0_1",
+                "id": "zgbs"
+            },
+            "page": 2
+        },
+        {
+            "rank": 75,
+            "position": 25,
+            "title": "DualSense Wireless Controller - White",
+            "asin": "B0CQKLS4RP",
+            "link": "https://www.amazon.ca/PlayStation-CFI-ZCT1W-DualSense-Wireless-Controller/dp/B0CQKLS4RP/ref=zg_bs_g_videogames_d_sccl_25/138-0662167-6638958?psc=1",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/61tpbGZhxBL._AC_UL300_SR300,200_.jpg",
+            "rating": 4.1,
+            "ratings_total": 98,
+            "price": {
+                "symbol": "$",
+                "value": 53.99,
+                "currency": "CAD",
+                "raw": "$53.99"
+            },
+            "current_category": {
+                "name": "Video Games",
+                "link": "https://www.amazon.ca/Best-Sellers-Video-Games/zgbs/videogames",
+                "id": "videogames"
+            },
+            "parent_category": {
+                "name": "Any Department",
+                "link": "https://www.amazon.ca/Best-Sellers/zgbs/ref=zg_bs_unv_videogames_0_1",
+                "id": "zgbs"
+            },
+            "page": 2
+        },
+        {
+            "rank": 76,
+            "position": 26,
+            "title": "Logitech F310 Wired Gamepad, Controller Console Like Layout, 4 Switch - Grey/Blue",
+            "asin": "B003VAHYQY",
+            "link": "https://www.amazon.ca/Logitech-940-000110-Gamepad-F310/dp/B003VAHYQY/ref=zg_bs_g_videogames_d_sccl_26/138-0662167-6638958?psc=1",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/71uoG-y-bEL._AC_UL300_SR300,200_.jpg",
+            "rating": 4.3,
+            "ratings_total": 22824,
+            "price": {
+                "symbol": "$",
+                "value": 24.98,
+                "currency": "CAD",
+                "raw": "$24.98"
+            },
+            "current_category": {
+                "name": "Video Games",
+                "link": "https://www.amazon.ca/Best-Sellers-Video-Games/zgbs/videogames",
+                "id": "videogames"
+            },
+            "parent_category": {
+                "name": "Any Department",
+                "link": "https://www.amazon.ca/Best-Sellers/zgbs/ref=zg_bs_unv_videogames_0_1",
+                "id": "zgbs"
+            },
+            "page": 2
+        },
+        {
+            "rank": 77,
+            "position": 27,
+            "title": "PowerA Nintendo Switch Joy-Con Comfort Grip - Black",
+            "asin": "B01MS7YUA7",
+            "link": "https://www.amazon.ca/Nintendo-Switch-Joy-Comfort-Black/dp/B01MS7YUA7/ref=zg_bs_g_videogames_d_sccl_27/138-0662167-6638958?psc=1",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51VEimVu9QL._AC_UL300_SR300,200_.jpg",
+            "rating": 4.6,
+            "ratings_total": 43691,
+            "price": {
+                "symbol": "$",
+                "value": 17.44,
+                "currency": "CAD",
+                "raw": "$17.44"
+            },
+            "current_category": {
+                "name": "Video Games",
+                "link": "https://www.amazon.ca/Best-Sellers-Video-Games/zgbs/videogames",
+                "id": "videogames"
+            },
+            "parent_category": {
+                "name": "Any Department",
+                "link": "https://www.amazon.ca/Best-Sellers/zgbs/ref=zg_bs_unv_videogames_0_1",
+                "id": "zgbs"
+            },
+            "page": 2
+        },
+        {
+            "rank": 78,
+            "position": 28,
+            "title": "OIVO PS5 Charging Station, PS5 Controller Charger Station for Dualsense Controller, PS5 Charger for Playstation 5 Dual Contro",
+            "asin": "B08S3FMVV7",
+            "link": "https://www.amazon.ca/Dualsense-Charging-Controller-OIVO-Playstation/dp/B08S3FMVV7/ref=zg_bs_g_videogames_d_sccl_28/138-0662167-6638958?psc=1",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/61JuR0uX6+L._AC_UL300_SR300,200_.jpg",
+            "rating": 4.6,
+            "ratings_total": 13071,
+            "price": {
+                "symbol": "$",
+                "value": 21.99,
+                "currency": "CAD",
+                "raw": "$21.99"
+            },
+            "current_category": {
+                "name": "Video Games",
+                "link": "https://www.amazon.ca/Best-Sellers-Video-Games/zgbs/videogames",
+                "id": "videogames"
+            },
+            "parent_category": {
+                "name": "Any Department",
+                "link": "https://www.amazon.ca/Best-Sellers/zgbs/ref=zg_bs_unv_videogames_0_1",
+                "id": "zgbs"
+            },
+            "page": 2
+        },
+        {
+            "rank": 79,
+            "position": 29,
+            "title": "2 Pack 10FT/3M Charger Charging Cable for PS5/Xbox Series X/S Controller/Switch Pro Controller, Replacement USB Charging Cord",
+            "asin": "B08M8W189S",
+            "link": "https://www.amazon.ca/Charging-Controller-Replacement-Accessories-Playstation/dp/B08M8W189S/ref=zg_bs_g_videogames_d_sccl_29/138-0662167-6638958?psc=1",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/71BtsXcP8oL._AC_UL300_SR300,200_.jpg",
+            "rating": 4.4,
+            "ratings_total": 5926,
+            "price": {
+                "symbol": "$",
+                "value": 15.99,
+                "currency": "CAD",
+                "raw": "$15.99"
+            },
+            "current_category": {
+                "name": "Video Games",
+                "link": "https://www.amazon.ca/Best-Sellers-Video-Games/zgbs/videogames",
+                "id": "videogames"
+            },
+            "parent_category": {
+                "name": "Any Department",
+                "link": "https://www.amazon.ca/Best-Sellers/zgbs/ref=zg_bs_unv_videogames_0_1",
+                "id": "zgbs"
+            },
+            "page": 2
+        },
+        {
+            "rank": 80,
+            "position": 30,
+            "title": "Just Dance 2024 Edition - Amazon Exclusive Bundle | Nintendo Switch (Code in Box & Ubisoft Connect Code)",
+            "asin": "B0C7RNTFLY",
+            "link": "https://www.amazon.ca/Just-Dance-2024-Exclusive-Nintendo/dp/B0C7RNTFLY/ref=zg_bs_g_videogames_d_sccl_30/138-0662167-6638958?psc=1",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/719rfs3UNAL._AC_UL300_SR300,200_.jpg",
+            "rating": 4.1,
+            "ratings_total": 2214,
+            "price": {
+                "symbol": "$",
+                "value": 39.99,
+                "currency": "CAD",
+                "raw": "$39.99"
+            },
+            "current_category": {
+                "name": "Video Games",
+                "link": "https://www.amazon.ca/Best-Sellers-Video-Games/zgbs/videogames",
+                "id": "videogames"
+            },
+            "parent_category": {
+                "name": "Any Department",
+                "link": "https://www.amazon.ca/Best-Sellers/zgbs/ref=zg_bs_unv_videogames_0_1",
+                "id": "zgbs"
+            },
+            "page": 2
+        },
+        {
+            "rank": 81,
+            "position": 31,
+            "title": "Joy-Con\u2122 (L)/(R) - Pastel Pink",
+            "asin": "B0CT3TZC8Q",
+            "link": "https://www.amazon.ca/Joy-ConTM-L-R-Pastel-Pink/dp/B0CT3TZC8Q/ref=_d_sccl_81/135-1253976-2146444?psc=1",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51RFfSHJHiL._AC_UL300_SR300,200_.jpg",
+            "rating": 4.7,
+            "ratings_total": 100734,
+            "price": {
+                "symbol": "$",
+                "value": 99.99,
+                "currency": "CAD",
+                "raw": "$99.99"
+            },
+            "current_category": {
+                "name": "Video Games",
+                "link": "https://www.amazon.ca/Best-Sellers-Video-Games/zgbs/videogames",
+                "id": "videogames"
+            },
+            "parent_category": {
+                "name": "Any Department",
+                "link": "https://www.amazon.ca/Best-Sellers/zgbs/ref=zg_bs_unv_videogames_0_1",
+                "id": "zgbs"
+            },
+            "page": 2
+        },
+        {
+            "rank": 82,
+            "position": 32,
+            "title": "daydayup Switch Carrying Case Compatible with Nintendo Switch/Switch OLED, with 20 Games Cartridges Protective Hard Shell Tra",
+            "asin": "B0711K97BS",
+            "link": "https://www.amazon.ca/daydayup-bbb01-Accessories-case-Black/dp/B0711K97BS/ref=_d_sccl_82/135-1253976-2146444?psc=1",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/81IPw0T0hAL._AC_UL300_SR300,200_.jpg",
+            "rating": 4.7,
+            "ratings_total": 31057,
+            "price": {
+                "symbol": "$",
+                "value": 24.99,
+                "currency": "CAD",
+                "raw": "$24.99"
+            },
+            "current_category": {
+                "name": "Video Games",
+                "link": "https://www.amazon.ca/Best-Sellers-Video-Games/zgbs/videogames",
+                "id": "videogames"
+            },
+            "parent_category": {
+                "name": "Any Department",
+                "link": "https://www.amazon.ca/Best-Sellers/zgbs/ref=zg_bs_unv_videogames_0_1",
+                "id": "zgbs"
+            },
+            "page": 2
+        },
+        {
+            "rank": 83,
+            "position": 33,
+            "title": "Splatoon 3 - Nintendo Switch - Standard Edition",
+            "asin": "B09KRL1RM6",
+            "link": "https://www.amazon.ca/Nintendo-HCCPAV5JA-SplatoonTM-3-Switch/dp/B09KRL1RM6/ref=_d_sccl_83/135-1253976-2146444?psc=1",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/91vXSMv8Y2L._AC_UL300_SR300,200_.jpg",
+            "rating": 4.7,
+            "ratings_total": 646,
+            "price": {
+                "raw": "MSRPClick for price"
+            },
+            "current_category": {
+                "name": "Video Games",
+                "link": "https://www.amazon.ca/Best-Sellers-Video-Games/zgbs/videogames",
+                "id": "videogames"
+            },
+            "parent_category": {
+                "name": "Any Department",
+                "link": "https://www.amazon.ca/Best-Sellers/zgbs/ref=zg_bs_unv_videogames_0_1",
+                "id": "zgbs"
+            },
+            "page": 2
+        },
+        {
+            "rank": 84,
+            "position": 34,
+            "title": "DualSense Wireless Controller - Galactic Purple",
+            "asin": "B09NMV37WB",
+            "link": "https://www.amazon.ca/DualSense-Wireless-Controller-Galactic-Purple/dp/B09NMV37WB/ref=_d_sccl_84/135-1253976-2146444?psc=1",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/61Uh8NFDzsL._AC_UL300_SR300,200_.jpg",
+            "rating": 4.7,
+            "ratings_total": 1003,
+            "price": {
+                "symbol": "$",
+                "value": 94.96,
+                "currency": "CAD",
+                "raw": "$94.96"
+            },
+            "current_category": {
+                "name": "Video Games",
+                "link": "https://www.amazon.ca/Best-Sellers-Video-Games/zgbs/videogames",
+                "id": "videogames"
+            },
+            "parent_category": {
+                "name": "Any Department",
+                "link": "https://www.amazon.ca/Best-Sellers/zgbs/ref=zg_bs_unv_videogames_0_1",
+                "id": "zgbs"
+            },
+            "page": 2
+        },
+        {
+            "rank": 85,
+            "position": 35,
+            "title": "VersionTECH. Gaming Mouse Ergonomic Wired Computer Mouse with 7 Colors LED Backlight, 4 DPI Settings Up to 3600 DPI Compatibl",
+            "asin": "B00WEVLE30",
+            "link": "https://www.amazon.ca/VersionTech-Ergonomic-Settings-Backlight-Computer/dp/B00WEVLE30/ref=_d_sccl_85/135-1253976-2146444?psc=1",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/61pDShoLXqL._AC_UL300_SR300,200_.jpg",
+            "rating": 4.5,
+            "ratings_total": 16178,
+            "price": {
+                "symbol": "$",
+                "value": 16.99,
+                "currency": "CAD",
+                "raw": "$16.99"
+            },
+            "current_category": {
+                "name": "Video Games",
+                "link": "https://www.amazon.ca/Best-Sellers-Video-Games/zgbs/videogames",
+                "id": "videogames"
+            },
+            "parent_category": {
+                "name": "Any Department",
+                "link": "https://www.amazon.ca/Best-Sellers/zgbs/ref=zg_bs_unv_videogames_0_1",
+                "id": "zgbs"
+            },
+            "page": 2
+        },
+        {
+            "rank": 86,
+            "position": 36,
+            "title": "DualSense Wireless Controller - Starlight Blue",
+            "asin": "B09NMXZQ2W",
+            "link": "https://www.amazon.ca/DualSense-Wireless-Controller-Starlight-Blue/dp/B09NMXZQ2W/ref=_d_sccl_86/135-1253976-2146444?psc=1",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/61+PYyVgeNL._AC_UL300_SR300,200_.jpg",
+            "rating": 4.6,
+            "ratings_total": 1062,
+            "price": {
+                "symbol": "$",
+                "value": 94,
+                "currency": "CAD",
+                "raw": "$94.00"
+            },
+            "current_category": {
+                "name": "Video Games",
+                "link": "https://www.amazon.ca/Best-Sellers-Video-Games/zgbs/videogames",
+                "id": "videogames"
+            },
+            "parent_category": {
+                "name": "Any Department",
+                "link": "https://www.amazon.ca/Best-Sellers/zgbs/ref=zg_bs_unv_videogames_0_1",
+                "id": "zgbs"
+            },
+            "page": 2
+        },
+        {
+            "rank": 87,
+            "position": 37,
+            "title": "Switch Controller for Nintendo Switch, Replacement Wireless Switch Controllers Support Sports Dual Vibration/Wake-up/Motion C",
+            "asin": "B0CR1MG2D6",
+            "link": "https://www.amazon.ca/Controller-Nintendo-Replacement-Controllers-Vibration/dp/B0CR1MG2D6/ref=_d_sccl_87/135-1253976-2146444?psc=1",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/61aEtw2CmyL._AC_UL300_SR300,200_.jpg",
+            "rating": 4.6,
+            "ratings_total": 27,
+            "price": {
+                "symbol": "$",
+                "value": 39.99,
+                "currency": "CAD",
+                "raw": "$39.99"
+            },
+            "current_category": {
+                "name": "Video Games",
+                "link": "https://www.amazon.ca/Best-Sellers-Video-Games/zgbs/videogames",
+                "id": "videogames"
+            },
+            "parent_category": {
+                "name": "Any Department",
+                "link": "https://www.amazon.ca/Best-Sellers/zgbs/ref=zg_bs_unv_videogames_0_1",
+                "id": "zgbs"
+            },
+            "page": 2
+        },
+        {
+            "rank": 88,
+            "position": 38,
+            "title": "Fallout S.P.E.C.I.A.L. Anthology Edition (Codes in Box) - PC",
+            "asin": "B0CW3T6KXQ",
+            "link": "https://www.amazon.ca/Fallout-S-P-C-I-Anthology-Codes/dp/B0CW3T6KXQ/ref=_d_sccl_88/135-1253976-2146444?psc=1",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/7152uTcvGPL._AC_UL300_SR300,200_.jpg",
+            "rating": 4.2,
+            "ratings_total": 11,
+            "price": {
+                "symbol": "$",
+                "value": 79.99,
+                "currency": "CAD",
+                "raw": "$79.99"
+            },
+            "current_category": {
+                "name": "Video Games",
+                "link": "https://www.amazon.ca/Best-Sellers-Video-Games/zgbs/videogames",
+                "id": "videogames"
+            },
+            "parent_category": {
+                "name": "Any Department",
+                "link": "https://www.amazon.ca/Best-Sellers/zgbs/ref=zg_bs_unv_videogames_0_1",
+                "id": "zgbs"
+            },
+            "page": 2
+        },
+        {
+            "rank": 89,
+            "position": 39,
+            "title": "New SteelSeries Arctis Nova 1P Multi-System Gaming Headset \u2014 Hi-Fi Drivers \u2014 360\u00b0 Spatial Audio \u2014 Comfort Design \u2014 Durable \u2014 ",
+            "asin": "B0B8QMW657",
+            "link": "https://www.amazon.ca/SteelSeries-Arctis-Multi-System-Gaming-Headset/dp/B0B8QMW657/ref=_d_sccl_89/135-1253976-2146444?psc=1",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/711IoMiPz4L._AC_UL300_SR300,200_.jpg",
+            "rating": 3.7,
+            "ratings_total": 649,
+            "price": {
+                "symbol": "$",
+                "value": 59.88,
+                "currency": "CAD",
+                "raw": "$59.88"
+            },
+            "current_category": {
+                "name": "Video Games",
+                "link": "https://www.amazon.ca/Best-Sellers-Video-Games/zgbs/videogames",
+                "id": "videogames"
+            },
+            "parent_category": {
+                "name": "Any Department",
+                "link": "https://www.amazon.ca/Best-Sellers/zgbs/ref=zg_bs_unv_videogames_0_1",
+                "id": "zgbs"
+            },
+            "page": 2
+        },
+        {
+            "rank": 90,
+            "position": 40,
+            "title": "Xbox Elite Wireless Gaming Controller Series 2 \u2013 Black \u2013 Xbox Series X|S, Xbox One, Windows PC, Android, and iOS",
+            "asin": "B07SFKTLZM",
+            "link": "https://www.amazon.ca/Elite-Controller-Black-Xbox-One/dp/B07SFKTLZM/ref=_d_sccl_90/135-1253976-2146444?psc=1",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/61r-M-8KuuL._AC_UL300_SR300,200_.jpg",
+            "rating": 4.2,
+            "ratings_total": 31097,
+            "price": {
+                "symbol": "$",
+                "value": 211.88,
+                "currency": "CAD",
+                "raw": "$211.88"
+            },
+            "current_category": {
+                "name": "Video Games",
+                "link": "https://www.amazon.ca/Best-Sellers-Video-Games/zgbs/videogames",
+                "id": "videogames"
+            },
+            "parent_category": {
+                "name": "Any Department",
+                "link": "https://www.amazon.ca/Best-Sellers/zgbs/ref=zg_bs_unv_videogames_0_1",
+                "id": "zgbs"
+            },
+            "page": 2
+        },
+        {
+            "rank": 91,
+            "position": 41,
+            "title": "Wireless Controller for PS4, Controller Wireless for PS4, with Vibration, Audio Jack, Six-Axis Motion Control, Touchpad, for ",
+            "asin": "B0CPYMRFJT",
+            "link": "https://www.amazon.ca/Wireless-Controller-Vibration-Six-Axis-Touchpad/dp/B0CPYMRFJT/ref=_d_sccl_91/135-1253976-2146444?psc=1",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/61Z0YAQbYeL._AC_UL300_SR300,200_.jpg",
+            "rating": 4.4,
+            "ratings_total": 3415,
+            "price": {
+                "symbol": "$",
+                "value": 26.99,
+                "currency": "CAD",
+                "raw": "$26.99"
+            },
+            "current_category": {
+                "name": "Video Games",
+                "link": "https://www.amazon.ca/Best-Sellers-Video-Games/zgbs/videogames",
+                "id": "videogames"
+            },
+            "parent_category": {
+                "name": "Any Department",
+                "link": "https://www.amazon.ca/Best-Sellers/zgbs/ref=zg_bs_unv_videogames_0_1",
+                "id": "zgbs"
+            },
+            "page": 2
+        },
+        {
+            "rank": 92,
+            "position": 42,
+            "title": "Switch Charger for Nintendo Switch and Lite OLED with 5FT Charging Cable, AC Power Supply Adapter for Nintendo Switch with Ch",
+            "asin": "B08DVFHXYC",
+            "link": "https://www.amazon.ca/pdobq-Charger-Charging-Compatible-Nintendo/dp/B08DVFHXYC/ref=_d_sccl_92/135-1253976-2146444?psc=1",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51QG+mdn8OL._AC_UL300_SR300,200_.jpg",
+            "rating": 4.7,
+            "ratings_total": 1903,
+            "price": {
+                "symbol": "$",
+                "value": 22.99,
+                "currency": "CAD",
+                "raw": "$22.99"
+            },
+            "current_category": {
+                "name": "Video Games",
+                "link": "https://www.amazon.ca/Best-Sellers-Video-Games/zgbs/videogames",
+                "id": "videogames"
+            },
+            "parent_category": {
+                "name": "Any Department",
+                "link": "https://www.amazon.ca/Best-Sellers/zgbs/ref=zg_bs_unv_videogames_0_1",
+                "id": "zgbs"
+            },
+            "page": 2
+        },
+        {
+            "rank": 93,
+            "position": 43,
+            "title": "Nintendo Switch\u2122 with Neon Blue and Neon Red Joy\u2011Con\u2122 (New Box)",
+            "asin": "B0BFJWCYTL",
+            "link": "https://www.amazon.ca/Nintendo-SwitchTM-Neon-Blue-Joy%E2%80%91ConTM/dp/B0BFJWCYTL/ref=_d_sccl_93/135-1253976-2146444?psc=1",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/71wpE+ZIehL._AC_UL300_SR300,200_.jpg",
+            "rating": 4.8,
+            "ratings_total": 6524,
+            "price": {
+                "symbol": "$",
+                "value": 399,
+                "currency": "CAD",
+                "raw": "$399.00"
+            },
+            "current_category": {
+                "name": "Video Games",
+                "link": "https://www.amazon.ca/Best-Sellers-Video-Games/zgbs/videogames",
+                "id": "videogames"
+            },
+            "parent_category": {
+                "name": "Any Department",
+                "link": "https://www.amazon.ca/Best-Sellers/zgbs/ref=zg_bs_unv_videogames_0_1",
+                "id": "zgbs"
+            },
+            "page": 2
+        },
+        {
+            "rank": 94,
+            "position": 44,
+            "title": "JSAUX Docking Station for Steam Deck OLED 2023/ROG Ally/Legion Go, 5-in-1 Steam Deck Dock with HDMI 2.0 4K@60Hz, 100Mbps Ethe",
+            "asin": "B0B28PCDM2",
+            "link": "https://www.amazon.ca/JSAUX-Compatible-Ethernet-Charging-Deck-HB0602/dp/B0B28PCDM2/ref=_d_sccl_94/135-1253976-2146444?psc=1",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/612g+uSofiL._AC_UL300_SR300,200_.jpg",
+            "rating": 4.3,
+            "ratings_total": 1400,
+            "price": {
+                "symbol": "$",
+                "value": 39.99,
+                "currency": "CAD",
+                "raw": "$39.99"
+            },
+            "current_category": {
+                "name": "Video Games",
+                "link": "https://www.amazon.ca/Best-Sellers-Video-Games/zgbs/videogames",
+                "id": "videogames"
+            },
+            "parent_category": {
+                "name": "Any Department",
+                "link": "https://www.amazon.ca/Best-Sellers/zgbs/ref=zg_bs_unv_videogames_0_1",
+                "id": "zgbs"
+            },
+            "page": 2
+        },
+        {
+            "rank": 95,
+            "position": 45,
+            "title": "BOBOVR M3 Pro Battery Pack Head Strap - Compatible with Meta Quest 3,Reduce Facial Stress,Magnetic Connection Hot-Swappable B",
+            "asin": "B0CJLG9SBR",
+            "link": "https://www.amazon.ca/BOBOVR-M3-Pro-Battery-Strap/dp/B0CJLG9SBR/ref=_d_sccl_95/135-1253976-2146444?psc=1",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51EZmmYguFL._AC_UL300_SR300,200_.jpg",
+            "rating": 4.5,
+            "ratings_total": 1053,
+            "price": {
+                "symbol": "$",
+                "value": 79,
+                "currency": "CAD",
+                "raw": "$79.00"
+            },
+            "current_category": {
+                "name": "Video Games",
+                "link": "https://www.amazon.ca/Best-Sellers-Video-Games/zgbs/videogames",
+                "id": "videogames"
+            },
+            "parent_category": {
+                "name": "Any Department",
+                "link": "https://www.amazon.ca/Best-Sellers/zgbs/ref=zg_bs_unv_videogames_0_1",
+                "id": "zgbs"
+            },
+            "page": 2
+        },
+        {
+            "rank": 96,
+            "position": 46,
+            "title": "Nintendo Switch OLED Model Carrying Case, 9 in 1 Accessories Kit",
+            "asin": "B07MR496WN",
+            "link": "https://www.amazon.ca/Compatible-Nintendo-Protector-Console-Accessories/dp/B07MR496WN/ref=_d_sccl_96/135-1253976-2146444?psc=1",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/81fu1Gei7VL._AC_UL300_SR300,200_.jpg",
+            "rating": 4.5,
+            "ratings_total": 32243,
+            "price": {
+                "symbol": "$",
+                "value": 23.99,
+                "currency": "CAD",
+                "raw": "$23.99"
+            },
+            "current_category": {
+                "name": "Video Games",
+                "link": "https://www.amazon.ca/Best-Sellers-Video-Games/zgbs/videogames",
+                "id": "videogames"
+            },
+            "parent_category": {
+                "name": "Any Department",
+                "link": "https://www.amazon.ca/Best-Sellers/zgbs/ref=zg_bs_unv_videogames_0_1",
+                "id": "zgbs"
+            },
+            "page": 2
+        },
+        {
+            "rank": 97,
+            "position": 47,
+            "title": "Razer Cobra Wired Gaming Mouse: 58g Lightweight Design - Gen-3 Optical Switches - Chroma RGB Lighting with Underglow - Precis",
+            "asin": "B0C51J2ZXN",
+            "link": "https://www.amazon.ca/Razer-Cobra-Wired-Gaming-Mouse/dp/B0C51J2ZXN/ref=_d_sccl_97/135-1253976-2146444?psc=1",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/61N55jovDVL._AC_UL300_SR300,200_.jpg",
+            "rating": 4.5,
+            "ratings_total": 556,
+            "price": {
+                "symbol": "$",
+                "value": 39.99,
+                "currency": "CAD",
+                "raw": "$39.99"
+            },
+            "current_category": {
+                "name": "Video Games",
+                "link": "https://www.amazon.ca/Best-Sellers-Video-Games/zgbs/videogames",
+                "id": "videogames"
+            },
+            "parent_category": {
+                "name": "Any Department",
+                "link": "https://www.amazon.ca/Best-Sellers/zgbs/ref=zg_bs_unv_videogames_0_1",
+                "id": "zgbs"
+            },
+            "page": 2
+        },
+        {
+            "rank": 98,
+            "position": 48,
+            "title": "KontrolFreek FPS Freek Galaxy Black for Playstation 4 (PS4) and Playstation 5 (PS5) | Performance Thumbsticks | 1 High-Rise, ",
+            "asin": "B0B4862QNJ",
+            "link": "https://www.amazon.ca/KontrolFreek-Playstation-Performance-Thumbsticks-High-Rise/dp/B0B4862QNJ/ref=_d_sccl_98/135-1253976-2146444?psc=1",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/81yAIGEYq+L._AC_UL300_SR300,200_.jpg",
+            "rating": 4.5,
+            "ratings_total": 2501,
+            "price": {
+                "symbol": "$",
+                "value": 22.99,
+                "currency": "CAD",
+                "raw": "$22.99"
+            },
+            "current_category": {
+                "name": "Video Games",
+                "link": "https://www.amazon.ca/Best-Sellers-Video-Games/zgbs/videogames",
+                "id": "videogames"
+            },
+            "parent_category": {
+                "name": "Any Department",
+                "link": "https://www.amazon.ca/Best-Sellers/zgbs/ref=zg_bs_unv_videogames_0_1",
+                "id": "zgbs"
+            },
+            "page": 2
+        },
+        {
+            "rank": 99,
+            "position": 49,
+            "title": "Redragon M908 Impact RGB Gaming Mouse, 12,400 DPI Wired Laser MMO Mouse with High Precision Actuation, 12 Macro Side Buttons ",
+            "asin": "B07FK9PKSM",
+            "link": "https://www.amazon.ca/Redragon-M908-Precision-Programmable-Buttons/dp/B07FK9PKSM/ref=_d_sccl_99/135-1253976-2146444?psc=1",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/61-DEL8MCRL._AC_UL300_SR300,200_.jpg",
+            "rating": 4.4,
+            "ratings_total": 6667,
+            "price": {
+                "symbol": "$",
+                "value": 44.99,
+                "currency": "CAD",
+                "raw": "$44.99"
+            },
+            "current_category": {
+                "name": "Video Games",
+                "link": "https://www.amazon.ca/Best-Sellers-Video-Games/zgbs/videogames",
+                "id": "videogames"
+            },
+            "parent_category": {
+                "name": "Any Department",
+                "link": "https://www.amazon.ca/Best-Sellers/zgbs/ref=zg_bs_unv_videogames_0_1",
+                "id": "zgbs"
+            },
+            "page": 2
+        },
+        {
+            "rank": 100,
+            "position": 50,
+            "title": "Mechanical Gaming Keyboard,RGB 104 Keys Ultra-Slim Rainbow LED Backlit USB Wired Keyboard with Blue Switches,Durable ABS Keyc",
+            "asin": "B09TR4Y91J",
+            "link": "https://www.amazon.ca/Mechanical-Keyboard-Ultra-Slim-Anti-Ghosting-Spill-Resistant/dp/B09TR4Y91J/ref=_d_sccl_100/135-1253976-2146444?psc=1",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/71T1WQSxp9L._AC_UL300_SR300,200_.jpg",
+            "rating": 4.4,
+            "ratings_total": 1552,
+            "price": {
+                "symbol": "$",
+                "value": 39.99,
+                "currency": "CAD",
+                "raw": "$39.99"
+            },
+            "current_category": {
+                "name": "Video Games",
+                "link": "https://www.amazon.ca/Best-Sellers-Video-Games/zgbs/videogames",
+                "id": "videogames"
+            },
+            "parent_category": {
+                "name": "Any Department",
+                "link": "https://www.amazon.ca/Best-Sellers/zgbs/ref=zg_bs_unv_videogames_0_1",
+                "id": "zgbs"
+            },
+            "page": 2
+        }
+    ],
+    "pagination": {
+        "pages": [
+            {
+                "current_page": 1,
+                "total_pages": 2
+            },
+            {
+                "current_page": 2,
+                "total_pages": 2
+            }
+        ]
+    },
+    "bestsellers_info": {
+        "title": "Video Games",
+        "current_category": {
+            "name": "Video Games",
+            "link": "https://www.amazon.ca/Best-Sellers-Video-Games/zgbs/videogames",
+            "id": "videogames"
+        },
+        "parent_category": {
+            "name": "Any Department",
+            "link": "https://www.amazon.ca/Best-Sellers/zgbs/ref=zg_bs_unv_videogames_0_1",
+            "id": "zgbs"
+        },
+        "child_categories": [
+            {
+                "name": "Handheld Game Systems",
+                "link": "https://www.amazon.ca/Best-Sellers-Video-Games-Handheld-Game-Systems/zgbs/videogames/120387878011/ref=zg_bs_nav_videogames_1",
+                "id": "120387878011"
+            },
+            {
+                "name": "Legacy Systems",
+                "link": "https://www.amazon.ca/Best-Sellers-Video-Games-Legacy-Systems/zgbs/videogames/23563582011/ref=zg_bs_nav_videogames_1",
+                "id": "23563582011"
+            },
+            {
+                "name": "Linux Games",
+                "link": "https://www.amazon.ca/Best-Sellers-Video-Games-Linux-Games/zgbs/videogames/3321051/ref=zg_bs_nav_videogames_1",
+                "id": "3321051"
+            },
+            {
+                "name": "Mac",
+                "link": "https://www.amazon.ca/Best-Sellers-Video-Games-Mac-Games-Hardware/zgbs/videogames/7089245011/ref=zg_bs_nav_videogames_1",
+                "id": "7089245011"
+            },
+            {
+                "name": "Nintendo Switch",
+                "link": "https://www.amazon.ca/Best-Sellers-Video-Games-Nintendo-Switch-Consoles-Games-Accessories/zgbs/videogames/16329248011/ref=zg_bs_nav_videogames_1",
+                "id": "16329248011"
+            },
+            {
+                "name": "Online Game Services",
+                "link": "https://www.amazon.ca/Best-Sellers-Video-Games-Online-Video-Game-Services/zgbs/videogames/17731669011/ref=zg_bs_nav_videogames_1",
+                "id": "17731669011"
+            },
+            {
+                "name": "PC",
+                "link": "https://www.amazon.ca/Best-Sellers-Video-Games-PC-Games-Hardware/zgbs/videogames/7089390011/ref=zg_bs_nav_videogames_1",
+                "id": "7089390011"
+            },
+            {
+                "name": "PlayStation 4",
+                "link": "https://www.amazon.ca/Best-Sellers-Video-Games-PlayStation-4-Games-Hardware/zgbs/videogames/7089437011/ref=zg_bs_nav_videogames_1",
+                "id": "7089437011"
+            },
+            {
+                "name": "PlayStation 5",
+                "link": "https://www.amazon.ca/Best-Sellers-Video-Games-PlayStation-5-Consoles-Games-Accessories/zgbs/videogames/20974860011/ref=zg_bs_nav_videogames_1",
+                "id": "20974860011"
+            },
+            {
+                "name": "Virtual Reality",
+                "link": "https://www.amazon.ca/Best-Sellers-Video-Games-Virtual-Reality-Hardware-Accessories/zgbs/videogames/21479461011/ref=zg_bs_nav_videogames_1",
+                "id": "21479461011"
+            },
+            {
+                "name": "Xbox One",
+                "link": "https://www.amazon.ca/Best-Sellers-Video-Games-Xbox-One/zgbs/videogames/7089610011/ref=zg_bs_nav_videogames_1",
+                "id": "7089610011"
+            },
+            {
+                "name": "Xbox Series X & S",
+                "link": "https://www.amazon.ca/Best-Sellers-Video-Games-Xbox-Series-X-S-Consoles-Games-Accessories/zgbs/videogames/20974877011/ref=zg_bs_nav_videogames_1",
+                "id": "20974877011"
+            }
+        ]
+    }
+}
