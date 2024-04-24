@@ -35,6 +35,9 @@ https://github.com/maheshpeiris0/mongodb_test_projects
 How to connect to Postgres using the pyscopg2 library:
 https://www.dataquest.io/blog/tutorial-connect-install-and-query-postgresql-in-python/
 
+How to create a table and insert data into Postgres using the psycopg2 library:
+https://www.psycopg.org/docs/usage.html
+
 Used to format the price column: 
 
 DataFrame.apply()
