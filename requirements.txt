@@ -1,0 +1,13 @@
+import requests
+import json
+from pymongo import MongoClient
+from datetime import datetime
+import psycopg2
+from pymongo.mongo_client import MongoClient
+import pymongo
+import os
+import sys
+import pandas as pd
+from config import password, user_name, api_key, postgres_user, postgres_password
+import matplotlib.pyplot as plt
+from pprint import pprint
