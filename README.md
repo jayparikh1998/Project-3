@@ -15,6 +15,15 @@ To populate the data into these four tables, the collections data from MongoDB w
 
 The psycopg adapter was utilized to create tables and load data in Postgres SQL.
 
+A config.py file will need to be created to handle the following credentials:
+
+For MongoDB Atlas, you will need to define user_name and password.
+
+For Postgres AWS, you will need to define the following: postgres_user, postgres_password, postgres_host, postgres_port and postgres_database.
+
+For the Rainforest API, you will need a unique API key.
+
+
 References:
 
 The source of the Amazon.ca data is Rainforest API. 
